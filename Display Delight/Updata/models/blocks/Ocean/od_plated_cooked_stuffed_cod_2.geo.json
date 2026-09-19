@@ -1,0 +1,1411 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.od_plated_cooked_stuffed_cod_2",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "group",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                0.5,
+                                1.5,
+                                2.5
+                            ],
+                            "size": [
+                                5,
+                                3,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -2.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        2.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -2.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        0.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2.5,
+                                        -0.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.5,
+                                1.5,
+                                -3
+                            ],
+                            "size": [
+                                5,
+                                3,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -2.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        2.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -2.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        0.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2.5,
+                                        -0.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0,
+                                3,
+                                -1.5
+                            ],
+                            "size": [
+                                1,
+                                0,
+                                3
+                            ],
+                            "uv": {
+                                "up": {
+                                    "uv": [
+                                        0.5,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        -1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        1,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        -1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1,
+                                2,
+                                -2.5
+                            ],
+                            "size": [
+                                4,
+                                2,
+                                7
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3.5,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4.5,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -3.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        5.5,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        3.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        8,
+                                        5.5
+                                    ],
+                                    "uv_size": [
+                                        -3.5,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3.5,
+                                        5.5
+                                    ],
+                                    "uv_size": [
+                                        -3.5,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                2,
+                                2,
+                                -6.5
+                            ],
+                            "size": [
+                                3,
+                                2,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0.5,
+                                        0.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1.5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1.5,
+                                        0.5
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -0.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        2,
+                                        0.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2.5,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        0.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0.5,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                4,
+                                2,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        8,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        9.5,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        9,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        9.5,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        7,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1,
+                                3,
+                                3.5
+                            ],
+                            "size": [
+                                4,
+                                0,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        13,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        13,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        15,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        13,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        15,
+                                        5.5
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        13,
+                                        5.5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "group2",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -5.5,
+                                1.5,
+                                3.5
+                            ],
+                            "size": [
+                                5,
+                                3,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -2.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        2.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -2.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        0.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2.5,
+                                        -0.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5.5,
+                                1.5,
+                                -2
+                            ],
+                            "size": [
+                                5,
+                                3,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -2.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        2.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -2.5,
+                                        1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1.5,
+                                        6.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        0.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2.5,
+                                        -0.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                3,
+                                -0.5
+                            ],
+                            "size": [
+                                1,
+                                0,
+                                3
+                            ],
+                            "uv": {
+                                "up": {
+                                    "uv": [
+                                        0.5,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        -1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        1,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        -1.5
+                                    ],
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5,
+                                2,
+                                -1.5
+                            ],
+                            "size": [
+                                4,
+                                2,
+                                7
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3.5,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4.5,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -3.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        5.5,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        3.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        8,
+                                        5.5
+                                    ],
+                                    "uv_size": [
+                                        -3.5,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3.5,
+                                        5.5
+                                    ],
+                                    "uv_size": [
+                                        -3.5,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                3,
+                                2,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0.5,
+                                        0.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1.5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1.5,
+                                        0.5
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -0.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        2,
+                                        0.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2.5,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        0.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0.5,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        -0.5,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5,
+                                2,
+                                -4.5
+                            ],
+                            "size": [
+                                4,
+                                2,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        8,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        9.5,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        9,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        1.5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        9.5,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        7,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5,
+                                3,
+                                4.5
+                            ],
+                            "size": [
+                                4,
+                                0,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        13,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "east": {
+                                    "uv": [
+                                        13,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "south": {
+                                    "uv": [
+                                        15,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "west": {
+                                    "uv": [
+                                        13,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "up": {
+                                    "uv": [
+                                        15,
+                                        5.5
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                },
+                                "down": {
+                                    "uv": [
+                                        13,
+                                        5.5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "od_cooked_stuffed_cod"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -7,
+                                0,
+                                -7
+                            ],
+                            "size": [
+                                14,
+                                2,
+                                14
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "up": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        37,
+                        44,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "scale": [
+                        0.8,
+                        0.8,
+                        0.8
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

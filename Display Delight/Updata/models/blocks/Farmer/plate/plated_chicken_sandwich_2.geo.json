@@ -1,0 +1,1287 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.plated_chicken_sandwich_2",
+                "texture_width": 32,
+                "texture_height": 32,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "group",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -5.5,
+                                4.04,
+                                -7
+                            ],
+                            "size": [
+                                5,
+                                0,
+                                7
+                            ],
+                            "uv": {
+                                "up": {
+                                    "uv": [
+                                        31,
+                                        23
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        -5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        31,
+                                        18
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -0.5,
+                                4.04,
+                                -7.5
+                            ],
+                            "size": [
+                                6,
+                                0,
+                                7
+                            ],
+                            "uv": {
+                                "up": {
+                                    "uv": [
+                                        30,
+                                        23
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        -7
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        31,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        7
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                3,
+                                -5.5
+                            ],
+                            "size": [
+                                5,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        27,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        27,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        27,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        27,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        27,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        5
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        27,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        -5
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1,
+                                3,
+                                -6
+                            ],
+                            "size": [
+                                5,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        27,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        27,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        27,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        27,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        27,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        5
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        27,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        -5
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                4,
+                                -5.5
+                            ],
+                            "size": [
+                                10,
+                                2,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        10,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        2
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        15,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        2
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        2
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        15,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        2
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        -4
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                10,
+                                1,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        10,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        9,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        16,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        -4
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3.5,
+                                6,
+                                -5.5
+                            ],
+                            "size": [
+                                8,
+                                1,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        15,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        5,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        16,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        4
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        8,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        -4
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "group2",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                0,
+                                4.04,
+                                -0.5
+                            ],
+                            "size": [
+                                5,
+                                0,
+                                7
+                            ],
+                            "uv": {
+                                "up": {
+                                    "uv": [
+                                        31,
+                                        23
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        -5
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        31,
+                                        18
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                4.04,
+                                0
+                            ],
+                            "size": [
+                                6,
+                                0,
+                                7
+                            ],
+                            "uv": {
+                                "up": {
+                                    "uv": [
+                                        30,
+                                        23
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        -7
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        31,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        7
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                3,
+                                0
+                            ],
+                            "size": [
+                                5,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        27,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        27,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        27,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        27,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        27,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        5
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        27,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        -5
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -6.5,
+                                3,
+                                0.5
+                            ],
+                            "size": [
+                                5,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        27,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        27,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        27,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        27,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        27,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        5
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        27,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        -5
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                4,
+                                1
+                            ],
+                            "size": [
+                                10,
+                                2,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        2
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        15,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        2
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        10,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        2
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        15,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        2
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        -4
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                2,
+                                1
+                            ],
+                            "size": [
+                                10,
+                                1,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        16,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        10,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        9,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        -4
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5,
+                                6,
+                                1
+                            ],
+                            "size": [
+                                8,
+                                1,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "east": {
+                                    "uv": [
+                                        16,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "south": {
+                                    "uv": [
+                                        15,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "west": {
+                                    "uv": [
+                                        5,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        4
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                },
+                                "down": {
+                                    "uv": [
+                                        8,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        -4
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "egg_sandwich"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -7,
+                                0,
+                                -7
+                            ],
+                            "size": [
+                                14,
+                                2,
+                                14
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        2,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        28,
+                                        4
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        28,
+                                        4
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "south": {
+                                    "uv": [
+                                        2,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        28,
+                                        4
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        28,
+                                        4
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "up": {
+                                    "uv": [
+                                        30,
+                                        30
+                                    ],
+                                    "uv_size": [
+                                        -28,
+                                        -28
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        30,
+                                        30
+                                    ],
+                                    "uv_size": [
+                                        -28,
+                                        -28
+                                    ],
+                                    "material_instance": "tray_top"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        37,
+                        -50,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "scale": [
+                        0.8,
+                        0.8,
+                        0.8
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

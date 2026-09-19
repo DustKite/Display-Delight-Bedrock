@@ -1,0 +1,876 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.pd_pineapple_milk_shake",
+                "texture_width": 32,
+                "texture_height": 32,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 2.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.75,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "group",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -3,
+                                4,
+                                -3
+                            ],
+                            "size": [
+                                6,
+                                5,
+                                6
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "down": {
+                                    "uv": [
+                                        6,
+                                        27
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        -6
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3,
+                                9,
+                                -3
+                            ],
+                            "size": [
+                                6,
+                                1,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "east": {
+                                    "uv": [
+                                        12.78572,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        0.96428,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7.96428,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        5.78572,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        0.96428,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        -1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                2,
+                                9,
+                                -2
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        12.78572,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0.96428,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "east": {
+                                    "uv": [
+                                        7.96428,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        4.82144,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        0.96428,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0.96428,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        4.82144,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "up": {
+                                    "uv": [
+                                        6,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "down": {
+                                    "uv": [
+                                        6,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3,
+                                9,
+                                -2
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0.96428,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "east": {
+                                    "uv": [
+                                        8.96428,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        4.82144,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "south": {
+                                    "uv": [
+                                        13.03572,
+                                        9.75
+                                    ],
+                                    "uv_size": [
+                                        0.96428,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0.96428,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        4.82144,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -2,
+                                9,
+                                2
+                            ],
+                            "size": [
+                                4,
+                                1,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        9.89286,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3.85714,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "east": {
+                                    "uv": [
+                                        7,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        0.96428,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3.85714,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "west": {
+                                    "uv": [
+                                        5.78572,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        0.96428,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "up": {
+                                    "uv": [
+                                        3,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        -1
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -2.5,
+                                0,
+                                -2.5
+                            ],
+                            "size": [
+                                5,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        18,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1.5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "east": {
+                                    "uv": [
+                                        18,
+                                        18
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1.5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "south": {
+                                    "uv": [
+                                        19,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1.5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "west": {
+                                    "uv": [
+                                        19,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1.5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "up": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "down": {
+                                    "uv": [
+                                        14,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        -5
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                1,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                3,
+                                2
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        6,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "east": {
+                                    "uv": [
+                                        13,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "south": {
+                                    "uv": [
+                                        6,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                },
+                                "west": {
+                                    "uv": [
+                                        13,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "glass_bottle"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -2.5,
+                                4.5,
+                                -2.5
+                            ],
+                            "size": [
+                                5,
+                                4.5,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        9
+                                    ],
+                                    "material_instance": "pd_pineapple_milk_shake"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        9
+                                    ],
+                                    "material_instance": "pd_pineapple_milk_shake"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        9
+                                    ],
+                                    "material_instance": "pd_pineapple_milk_shake"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        9
+                                    ],
+                                    "material_instance": "pd_pineapple_milk_shake"
+                                },
+                                "up": {
+                                    "uv": [
+                                        10,
+                                        20
+                                    ],
+                                    "uv_size": [
+                                        -10,
+                                        -10
+                                    ],
+                                    "material_instance": "pd_pineapple_milk_shake"
+                                },
+                                "down": {
+                                    "uv": [
+                                        12,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        -10,
+                                        -10
+                                    ],
+                                    "material_instance": "pd_pineapple_milk_shake"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3,
+                                9,
+                                0
+                            ],
+                            "size": [
+                                7,
+                                3,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        6
+                                    ],
+                                    "material_instance": "pd_pineapple_milk_shake"
+                                },
+                                "south": {
+                                    "uv": [
+                                        14,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        6
+                                    ],
+                                    "material_instance": "pd_pineapple_milk_shake"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        -150,
+                        20,
+                        -180
+                    ],
+                    "translation": [
+                        0.75,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

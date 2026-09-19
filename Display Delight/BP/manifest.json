@@ -1,0 +1,62 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "19ddbe06-2f1c-4b01-9410-c0d999d5aebb",
+    "version": [
+      5,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "4f3aa0c5-5cdb-4ddf-9c14-fb2c0498fd5e",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "description": "Display Delight Scripts",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "77b01b8d-c8d8-4b65-9420-8b543c53056c",
+      "version": [
+        5,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Dust_Kite/Elaikes"
+    ],
+    "license": "GPLv3",
+    "product_type": "addon"
+  },
+  "dependencies": [
+    {
+      "uuid": "a46bb6e7-3325-4ff1-ac08-cf726bb31d4f",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    }
+  ]
+}

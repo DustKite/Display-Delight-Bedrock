@@ -1,0 +1,265 @@
+{
+  "texture_data": {
+    "displaydelight:ad_acacia_blossom_soup": {
+      "textures": "textures/blocks/displaydelight/ad_acacia_blossom_soup"
+    },
+    "displaydelight:ad_kangaroo_pasta_top": {
+      "textures": "textures/blocks/displaydelight/ad_kangaroo_pasta_top"
+    },
+    "displaydelight:df_pumkpin_pie_slice": {
+      "textures": "textures/blocks/displaydelight/df_pumkpin_pie_slice"
+    },
+    "displaydelight:ed_asparagus_and_bacon_cheesy": {
+      "textures": "textures/blocks/displaydelight/ed_asparagus_and_bacon_cheesy"
+    },
+    "displaydelight:apple_cider": {
+      "textures": "textures/blocks/displaydelight/Famer/apple_cider"
+    },
+    "displaydelight:apple_pie": {
+      "textures": "textures/blocks/displaydelight/Famer/apple_pie"
+    },
+    "displaydelight:bacon_and_eggs": {
+      "textures": "textures/blocks/displaydelight/Famer/bacon_and_eggs"
+    },
+    "displaydelight:bacon_sandwich": {
+      "textures": "textures/blocks/displaydelight/Famer/bacon_sandwich"
+    },
+    "displaydelight:bacon_sandwich2": {
+      "textures": "textures/blocks/displaydelight/Famer/bacon_sandwich2"
+    },
+    "displaydelight:baked_cod_stew": {
+      "textures": "textures/blocks/displaydelight/Famer/baked_cod_stew"
+    },
+    "displaydelight:baked_potato": {
+      "textures": "textures/blocks/displaydelight/Famer/baked_potato"
+    },
+    "displaydelight:barbecue_on_stick": {
+      "textures": "textures/blocks/displaydelight/Famer/barbecue_on_stick"
+    },
+    "displaydelight:beef_stew": {
+      "textures": "textures/blocks/displaydelight/Famer/beef_stew"
+    },
+    "displaydelight:beetroot_soup": {
+      "textures": "textures/blocks/displaydelight/Minecraft/beetroot_soup"
+    },
+    "displaydelight:bone_broth": {
+      "textures": "textures/blocks/displaydelight/Famer/bone_broth"
+    },
+    "displaydelight:cabbage": {
+      "textures": "textures/blocks/displaydelight/Famer/cabbage"
+    },
+    "displaydelight:cabbage_rolls": {
+      "textures": "textures/blocks/displaydelight/Famer/cabbage_rolls"
+    },
+    "displaydelight:chicken_soup": {
+      "textures": "textures/blocks/displaydelight/Famer/chicken_soup"
+    },
+    "displaydelight:chocolate_pie": {
+      "textures": "textures/blocks/displaydelight/Famer/chocolate_pie"
+    },
+    "displaydelight:chorus": {
+      "textures": "textures/blocks/displaydelight/Famer/chorus"
+    },
+    "displaydelight:cod_roll": {
+      "textures": "textures/blocks/displaydelight/Famer/cod_roll"
+    },
+    "displaydelight:cooked_rice": {
+      "textures": "textures/blocks/displaydelight/Famer/cooked_rice"
+    },
+    "displaydelight:cookie": {
+      "textures": "textures/blocks/displaydelight/Famer/cookie"
+    },
+    "displaydelight:dumplings": {
+      "textures": "textures/blocks/displaydelight/Famer/dumplings"
+    },
+    "displaydelight:egg_sandwich": {
+      "textures": "textures/blocks/displaydelight/Famer/egg_sandwich"
+    },
+    "displaydelight:feast_plate": {
+      "textures": "textures/blocks/displaydelight/Famer/feast_plate"
+    },
+    "displaydelight:festive_chicken_eaten": {
+      "textures": "textures/blocks/displaydelight/Famer/festive_chicken_eaten"
+    },
+    "displaydelight:fish_stew": {
+      "textures": "textures/blocks/displaydelight/Famer/fish_stew"
+    },
+    "displaydelight:fried_rice": {
+      "textures": "textures/blocks/displaydelight/Famer/fried_rice"
+    },
+    "displaydelight:fruit_salad": {
+      "textures": "textures/blocks/displaydelight/Famer/fruit_salad"
+    },
+    "displaydelight:fungus": {
+      "textures": "textures/blocks/displaydelight/Famer/fungus"
+    },
+    "displaydelight:glass": {
+      "textures": "textures/blocks/displaydelight/Famer/glass"
+    },
+    "displaydelight:glass_bottle": {
+      "textures": "textures/blocks/displaydelight/Famer/glass_bottle"
+    },
+    "displaydelight:gleaming_salad": {
+      "textures": "textures/blocks/displaydelight/Famer/gleaming_salad"
+    },
+    "displaydelight:glow_berry_custard": {
+      "textures": "textures/blocks/displaydelight/Famer/glow_berry_custard"
+    },
+    "displaydelight:grilled_salmon": {
+      "textures": "textures/blocks/displaydelight/Famer/grilled_salmon"
+    },
+    "displaydelight:hamburger": {
+      "textures": "textures/blocks/displaydelight/Famer/hamburger"
+    },
+    "displaydelight:honey_cookie": {
+      "textures": "textures/blocks/displaydelight/Famer/honey_cookie"
+    },
+    "displaydelight:honey_glazed_ham": {
+      "textures": "textures/blocks/displaydelight/Famer/honey_glazed_ham"
+    },
+    "displaydelight:hot_cocoa": {
+      "textures": "textures/blocks/displaydelight/Famer/hot_cocoa"
+    },
+    "displaydelight:kelp_roll": {
+      "textures": "textures/blocks/displaydelight/Famer/kelp_roll"
+    },
+    "displaydelight:melon_juice": {
+      "textures": "textures/blocks/displaydelight/Famer/melon_juice"
+    },
+    "displaydelight:melon_popsicle": {
+      "textures": "textures/blocks/displaydelight/Famer/melon_popsicle"
+    },
+    "displaydelight:mushroom_rice": {
+      "textures": "textures/blocks/displaydelight/Famer/mushroom_rice"
+    },
+    "displaydelight:mushroom_stew": {
+      "textures": "textures/blocks/displaydelight/Minecraft/mushroom_stew"
+    },
+    "displaydelight:mutton_wrap": {
+      "textures": "textures/blocks/displaydelight/Famer/mutton_wrap"
+    },
+    "displaydelight:nether_vines": {
+      "textures": "textures/blocks/displaydelight/Famer/nether_vines"
+    },
+    "displaydelight:noodle_soup": {
+      "textures": "textures/blocks/displaydelight/Famer/noodle_soup"
+    },
+    "displaydelight:onion_soup": {
+      "textures": "textures/blocks/displaydelight/Famer/onion_soup"
+    },
+    "displaydelight:pasta_with_meatballs": {
+      "textures": "textures/blocks/displaydelight/Famer/pasta_with_meatballs"
+    },
+    "displaydelight:pie_side": {
+      "textures": "textures/blocks/displaydelight/Famer/pie_side"
+    },
+    "displaydelight:plated_cake_slice": {
+      "textures": "textures/blocks/displaydelight/Famer/plated_cake_slice"
+    },
+    "displaydelight:plated_pineapple_cake_slice": {
+      "textures": "textures/blocks/displaydelight/Famer/plated_pineapple_cake_slice"
+    },
+    "displaydelight:pumpkin_soup": {
+      "textures": "textures/blocks/displaydelight/Famer/pumpkin_soup"
+    },
+    "displaydelight:rabbit_stew": {
+      "textures": "textures/blocks/displaydelight/Minecraft/rabbit_stew"
+    },
+    "displaydelight:ratatouille": {
+      "textures": "textures/blocks/displaydelight/Famer/ratatouille"
+    },
+    "displaydelight:roasted_mutton_chops": {
+      "textures": "textures/blocks/displaydelight/Famer/roasted_mutton_chops"
+    },
+    "displaydelight:roast_chicken": {
+      "textures": "textures/blocks/displaydelight/Famer/roast_chicken"
+    },
+    "displaydelight:rock_soup": {
+      "textures": "textures/blocks/displaydelight/Famer/rock_soup"
+    },
+    "displaydelight:rose_hip_pie_slice": {
+      "textures": "textures/blocks/displaydelight/Famer/rose_hip_pie_slice"
+    },
+    "displaydelight:salad_bowl": {
+      "textures": "textures/blocks/displaydelight/Famer/salad_bowl"
+    },
+    "displaydelight:salmon_roll": {
+      "textures": "textures/blocks/displaydelight/Famer/salmon_roll"
+    },
+    "displaydelight:shepherds_pie": {
+      "textures": "textures/blocks/displaydelight/Famer/shepherds_pie"
+    },
+    "displaydelight:shulker_bowl": {
+      "textures": "textures/blocks/displaydelight/Famer/shulker_bowl"
+    },
+    "displaydelight:shulker_plate": {
+      "textures": "textures/blocks/displaydelight/Famer/shulker_plate"
+    },
+    "displaydelight:small_plate": {
+      "textures": "textures/blocks/displaydelight/Famer/small_plate"
+    },
+    "displaydelight:smoked_cut_eggplant": {
+      "textures": "textures/blocks/displaydelight/Famer/smoked_cut_eggplant"
+    },
+    "displaydelight:spoon": {
+      "textures": "textures/blocks/displaydelight/Famer/spoon"
+    },
+    "displaydelight:steak": {
+      "textures": "textures/blocks/displaydelight/Famer/steak"
+    },
+    "displaydelight:steak_and_potatoes": {
+      "textures": "textures/blocks/displaydelight/Famer/steak_and_potatoes"
+    },
+    "displaydelight:stuffed_cantaloupe_details": {
+      "textures": "textures/blocks/displaydelight/Famer/stuffed_cantaloupe_details"
+    },
+    "displaydelight:stuffed_pumpkin": {
+      "textures": "textures/blocks/displaydelight/Famer/stuffed_pumpkin"
+    },
+    "displaydelight:sweet_berry_cheesecake": {
+      "textures": "textures/blocks/displaydelight/Famer/sweet_berry_cheesecake"
+    },
+    "displaydelight:sweet_berry_cookie": {
+      "textures": "textures/blocks/displaydelight/Famer/sweet_berry_cookie"
+    },
+    "displaydelight:sweet_berry_custard": {
+      "textures": "textures/blocks/displaydelight/Famer/sweet_berry_custard"
+    },
+    "displaydelight:toast": {
+      "textures": "textures/blocks/displaydelight/Famer/toast"
+    },
+    "displaydelight:toast_dark": {
+      "textures": "textures/blocks/displaydelight/Famer/toast_dark"
+    },
+    "displaydelight:tray": {
+      "textures": "textures/blocks/displaydelight/Famer/tray"
+    },
+    "displaydelight:tray_bottom": {
+      "textures": "textures/blocks/displaydelight/Famer/tray_bottom"
+    },
+    "displaydelight:tray_top": {
+      "textures": "textures/blocks/displaydelight/Famer/tray_top"
+    },
+    "displaydelight:tray_top_squid_ink": {
+      "textures": "textures/blocks/displaydelight/Famer/tray_top_squid_ink"
+    },
+    "displaydelight:tray_top_tomato": {
+      "textures": "textures/blocks/displaydelight/Famer/tray_top_tomato"
+    },
+    "displaydelight:tray_top_vegetable": {
+      "textures": "textures/blocks/displaydelight/Famer/tray_top_vegetable"
+    },
+    "displaydelight:vegetable_noodle": {
+      "textures": "textures/blocks/displaydelight/Famer/vegetable_noodle"
+    },
+    "displaydelight:vegetable_soup": {
+      "textures": "textures/blocks/displaydelight/Famer/vegetable_soup"
+    },
+    "displaydelight:wood_support": {
+      "textures": "textures/blocks/displaydelight/Famer/wood_support"
+    },
+    "displaydelight:wood_support_oak": {
+      "textures": "textures/blocks/displaydelight/Famer/wood_support_oak"
+    }
+  }
+}

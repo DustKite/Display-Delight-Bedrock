@@ -1,0 +1,855 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.plated_salmon_roll_6",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                2.5,
+                                2,
+                                0.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                5
+                            ],
+                            "pivot": [
+                                3.5,
+                                3,
+                                3
+                            ],
+                            "rotation": [
+                                0,
+                                -22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                2,
+                                0.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                5
+                            ],
+                            "pivot": [
+                                -3.5,
+                                3,
+                                3
+                            ],
+                            "rotation": [
+                                0,
+                                -22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                2,
+                                0.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                5
+                            ],
+                            "pivot": [
+                                0,
+                                3,
+                                3
+                            ],
+                            "rotation": [
+                                0,
+                                -22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                2.5,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                5
+                            ],
+                            "pivot": [
+                                3.5,
+                                3,
+                                -3
+                            ],
+                            "rotation": [
+                                0,
+                                -22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                5
+                            ],
+                            "pivot": [
+                                -3.5,
+                                3,
+                                -3
+                            ],
+                            "rotation": [
+                                0,
+                                -22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                5
+                            ],
+                            "pivot": [
+                                0,
+                                3,
+                                -3
+                            ],
+                            "rotation": [
+                                0,
+                                -22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -5
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "salmon_roll"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -5
+                                    ],
+                                    "material_instance": "salmon_roll"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -7,
+                                0,
+                                -7
+                            ],
+                            "size": [
+                                14,
+                                2,
+                                14
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "up": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        37,
+                        -50,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "scale": [
+                        0.8,
+                        0.8,
+                        0.8
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

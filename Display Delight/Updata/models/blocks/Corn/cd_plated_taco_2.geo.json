@@ -1,0 +1,991 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.cd_plated_taco_2",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "group",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                1.5,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                3,
+                                1,
+                                10
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        4,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1.5,
+                                2.5,
+                                -4.5
+                            ],
+                            "size": [
+                                3,
+                                2.5,
+                                8
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                2.5,
+                                3,
+                                3
+                            ],
+                            "size": [
+                                2,
+                                1.5,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        11,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "east": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        13,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1.5,
+                                3,
+                                -5
+                            ],
+                            "size": [
+                                2,
+                                1.5,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        11,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        13,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "west": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1.5,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                0,
+                                4,
+                                10
+                            ],
+                            "uv": {
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                4.5,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                0,
+                                4,
+                                10
+                            ],
+                            "uv": {
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1.5,
+                                5,
+                                -2.5
+                            ],
+                            "size": [
+                                3,
+                                0.5,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "group2",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4,
+                                2,
+                                -5
+                            ],
+                            "size": [
+                                3,
+                                1,
+                                10
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        4,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4,
+                                2.5,
+                                -4
+                            ],
+                            "size": [
+                                3,
+                                2.5,
+                                8
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3,
+                                3,
+                                3.5
+                            ],
+                            "size": [
+                                2,
+                                1.5,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        11,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "east": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        13,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4,
+                                3,
+                                -4.5
+                            ],
+                            "size": [
+                                2,
+                                1.5,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        11,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        13,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "west": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1.5
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        14,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4,
+                                2,
+                                -5
+                            ],
+                            "size": [
+                                0,
+                                4,
+                                10
+                            ],
+                            "uv": {
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                2,
+                                -5
+                            ],
+                            "size": [
+                                0,
+                                4,
+                                10
+                            ],
+                            "uv": {
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        10,
+                                        4
+                                    ],
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4,
+                                5,
+                                -2
+                            ],
+                            "size": [
+                                3,
+                                0.5,
+                                4
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "cd_taco"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "cd_taco"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -7,
+                                0,
+                                -7
+                            ],
+                            "size": [
+                                14,
+                                2,
+                                14
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "up": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        37,
+                        44,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "scale": [
+                        0.8,
+                        0.8,
+                        0.8
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

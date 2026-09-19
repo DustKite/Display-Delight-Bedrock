@@ -1,0 +1,800 @@
+{
+    "format_version": "1.21.110",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.mnd_fried_hoglin_chop",
+                "texture_width": 32,
+                "texture_height": 32,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -7,
+                                0,
+                                -7
+                            ],
+                            "size": [
+                                14,
+                                2,
+                                14
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        2,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        28,
+                                        4
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "east": {
+                                    "uv": [
+                                        2,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        28,
+                                        4
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "south": {
+                                    "uv": [
+                                        2,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        28,
+                                        4
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "west": {
+                                    "uv": [
+                                        2,
+                                        22
+                                    ],
+                                    "uv_size": [
+                                        28,
+                                        4
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "up": {
+                                    "uv": [
+                                        30,
+                                        30
+                                    ],
+                                    "uv_size": [
+                                        -28,
+                                        -28
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        30,
+                                        30
+                                    ],
+                                    "uv_size": [
+                                        -28,
+                                        -28
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5,
+                                2,
+                                -5
+                            ],
+                            "size": [
+                                4,
+                                1,
+                                6
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "east": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "west": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "up": {
+                                    "uv": [
+                                        4,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        6
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                2.25,
+                                -4.5
+                            ],
+                            "size": [
+                                3,
+                                1.25,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        8,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "east": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "south": {
+                                    "uv": [
+                                        11,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "west": {
+                                    "uv": [
+                                        8,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "up": {
+                                    "uv": [
+                                        4,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        5
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.9,
+                                2,
+                                -5
+                            ],
+                            "size": [
+                                4,
+                                1,
+                                10
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -10
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "south": {
+                                    "uv": [
+                                        11,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "west": {
+                                    "uv": [
+                                        3,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        10
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        10
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                4.9,
+                                2,
+                                -2
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "west": {
+                                    "uv": [
+                                        7,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "up": {
+                                    "uv": [
+                                        12,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        -5,
+                                        1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -0.1,
+                                2,
+                                -4
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        2,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "east": {
+                                    "uv": [
+                                        7,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "south": {
+                                    "uv": [
+                                        3,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                },
+                                "up": {
+                                    "uv": [
+                                        7,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fried_hoglin_chop"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                2,
+                                2.5
+                            ],
+                            "size": [
+                                4,
+                                2,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        4
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "east": {
+                                    "uv": [
+                                        16,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        4
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "south": {
+                                    "uv": [
+                                        6,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        4
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "west": {
+                                    "uv": [
+                                        6,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        4
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "up": {
+                                    "uv": [
+                                        8,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        -8,
+                                        -6
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "down": {
+                                    "uv": [
+                                        5,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        -4,
+                                        -3
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -7.5,
+                                3.5,
+                                1.5
+                            ],
+                            "size": [
+                                3,
+                                0,
+                                5
+                            ],
+                            "pivot": [
+                                -4.5,
+                                3.5,
+                                2.5
+                            ],
+                            "rotation": [
+                                0,
+                                0,
+                                22.5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        0
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        0
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        0
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        0
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "up": {
+                                    "uv": [
+                                        28,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        -10
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                },
+                                "down": {
+                                    "uv": [
+                                        28,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        -10
+                                    ],
+                                    "material_instance": "mnd_bullet_pepper"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        37,
+                        -44,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "scale": [
+                        0.8,
+                        0.8,
+                        0.8
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "displaydelight:apple_cider": {
+        "sound": "glass"
+    },
+    "displaydelight:bacon_and_eggs": {
+        "sound": "cloth"
+    },
+    "displaydelight:baked_cod_stew": {
+        "sound": "cloth"
+    },
+    "displaydelight:beef_stew": {
+        "sound": "cloth"
+    },
+    "displaydelight:beetroot_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:bone_broth": {
+        "sound": "cloth"
+    },
+    "displaydelight:chicken_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:cooked_rice": {
+        "sound": "cloth"
+    },
+    "displaydelight:fish_stew": {
+        "sound": "cloth"
+    },
+    "displaydelight:food_plate": {
+        "sound": "cloth"
+    },
+    "displaydelight:fried_rice": {
+        "sound": "cloth"
+    },
+    "displaydelight:fruit_salad": {
+        "sound": "cloth"
+    },
+    "displaydelight:gleaming_salad": {
+        "sound": "cloth"
+    },
+    "displaydelight:glow_berry_custard": {
+        "sound": "glass"
+    },
+    "displaydelight:grilled_salmon": {
+        "sound": "cloth"
+    },
+    "displaydelight:honey_glazed_ham": {
+        "sound": "cloth"
+    },
+    "displaydelight:hot_cocoa": {
+        "sound": "glass"
+    },
+    "displaydelight:melon_juice": {
+        "sound": "glass"
+    },
+    "displaydelight:mixed_salad": {
+        "sound": "cloth"
+    },
+    "displaydelight:mushroom_rice": {
+        "sound": "cloth"
+    },
+    "displaydelight:mushroom_stew": {
+        "sound": "cloth"
+    },
+    "displaydelight:nether_salad": {
+        "sound": "cloth"
+    },
+    "displaydelight:noodle_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:onion_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:pasta_with_meatballs": {
+        "sound": "cloth"
+    },
+    "displaydelight:pasta_with_mutton_chop": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_bacon_sandwich": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_barbecue_stick": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_cabbage_rolls": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_chicken_sandwich": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_cod_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_cookie": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_dumplings": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_egg_sandwich": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_hamburger": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_honey_cookie": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_kelp_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_kelp_roll_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_melon_popsicle": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_mutton_wrap": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_pumpkin_pie": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_salmon_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_stuffed_potato": {
+        "sound": "cloth"
+    },
+    "displaydelight:plated_sweet_berry_cookie": {
+        "sound": "cloth"
+    },
+    "displaydelight:pumpkin_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:rabbit_stew": {
+        "sound": "cloth"
+    },
+    "displaydelight:ratatouille": {
+        "sound": "cloth"
+    },
+    "displaydelight:roast_chicken": {
+        "sound": "cloth"
+    },
+    "displaydelight:roasted_mutton_chops": {
+        "sound": "cloth"
+    },
+    "displaydelight:shepherds_pie": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_food_plate": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_apple_pie_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_cabbage_rolls": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_cake_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_chocolate_pie_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_cod_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_kelp_roll_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_pumpkin_pie_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_salmon_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_stuffed_potato": {
+        "sound": "cloth"
+    },
+    "displaydelight:small_plated_sweet_berry_cheesecake_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:squid_ink_pasta": {
+        "sound": "cloth"
+    },
+    "displaydelight:steak_and_potatoes": {
+        "sound": "cloth"
+    },
+    "displaydelight:stuffed_pumpkin": {
+        "sound": "cloth"
+    },
+    "displaydelight:vegetable_noodles": {
+        "sound": "cloth"
+    },
+    "displaydelight:vegetable_soup": {
+        "sound": "cloth"
+    },
+    "format_version": [
+        1,
+        1,
+        0
+    ]
+}

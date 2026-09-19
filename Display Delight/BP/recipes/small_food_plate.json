@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "displaydelight:small_food_plate"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "displaydelight:small_food_plate",
+      "count": 2
+    },
+    "pattern": [
+      "SS"
+    ],
+    "key": {
+      "S": {
+        "tag": "minecraft:wooden_slabs"
+      }
+    }
+  }
+}

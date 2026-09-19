@@ -1,0 +1,71 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#minecraft:doors",
+      "required": false
+    },
+    {
+      "id": "#minecraft:stairs",
+      "required": false
+    },{
+      "id": "minecraft:honey_block",
+      "required": false
+    },{
+      "id": "minecraft:composter",
+      "required": false
+    },{
+      "id": "minecraft:dirt_path",
+      "required": false
+    },{
+      "id": "minecraft:farmland",
+      "required": false
+    },{
+      "id": "#minecraft:fence_gates",
+      "required": false
+    },{
+      "id": "minecraft:potted_cactus",
+      "required": false
+    },{
+      "id": "minecraft:potted_bamboo",
+      "required": false
+    },{
+      "id": "minecraft:bamboo",
+      "required": false
+    },{
+      "id": "#minecraft:leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:cauldron",
+      "required": false
+    },{
+      "id": "minecraft:water_cauldron",
+      "required": false
+    },{
+      "id": "minecraft:lava_cauldron",
+      "required": false
+    },{
+      "id": "minecraft:big_dripleaf",
+      "required": false
+    },{
+      "id": "minecraft:powder_snow_cauldron",
+      "required": false
+    },
+    {
+      "id": "minecraft:hopper",
+      "required": false
+    },{
+
+      "id": "minecraft:lectern",
+      "required": false
+    },{
+      "id": "#c:fence_gates",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:basket",
+      "required": false
+    }
+  ]
+}

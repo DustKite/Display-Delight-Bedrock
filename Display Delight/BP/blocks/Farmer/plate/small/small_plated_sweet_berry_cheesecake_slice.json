@@ -1,0 +1,136 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "displaydelight:small_plated_sweet_berry_cheesecake_slice",
+            "menu_category": {
+                "category": "none"
+            },
+            "traits": {
+                "minecraft:placement_direction": {
+                    "enabled_states": [
+                        "minecraft:cardinal_direction"
+                    ],
+                    "y_rotation_offset": 0.0
+                }
+            }
+        },
+        "permutations": [
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'north'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            180,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'south'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'west'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            270,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "query.block_state('minecraft:cardinal_direction') == 'east'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                }
+            }
+        ],
+        "components": {
+            "minecraft:geometry": "geometry.displaydelight.small_plated_cake_slice",
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 0.01
+            },
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 0.01
+            },
+            "minecraft:collision_box": {
+                "origin": [
+                    -7.0,
+                    0.0,
+                    -7.0
+                ],
+                "size": [
+                    14.0,
+                    4.0,
+                    14.0
+                ]
+            },
+            "minecraft:selection_box": {
+                "origin": [
+                    -7.0,
+                    0.0,
+                    -7.0
+                ],
+                "size": [
+                    14.0,
+                    4.0,
+                    14.0
+                ]
+            },
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "displaydelight:sweet_berry_cheesecake",
+                    "render_method": "alpha_test_single_sided"
+                },
+                "plated_cake_slice": {
+                    "texture": "displaydelight:sweet_berry_cheesecake",
+                    "render_method": "alpha_test_single_sided"
+                },
+                "small_plate": {
+                    "texture": "displaydelight:small_plate",
+                    "render_method": "alpha_test_single_sided"
+                }
+            },
+            "minecraft:connection_rule": {
+                "accepts_connections_from": "none"
+            },
+            "minecraft:placement_filter": {
+                "conditions": [
+                    {
+                        "allowed_faces": [
+                            "up"
+                        ],
+                        "block_filter": [
+                            {
+                                "tags": "!q.any_tag('minecraft:crop','plant', 'farmersdelight:wild_crop','crop') && (!q.all_tags('fertilize_area') || q.any_tag('grass') || q.any_tag('dirt') || q.any_tag('minecraft:is_pickaxe_item_destructible'))"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "minecraft:light_dampening": 0,
+            "minecraft:loot": "loot_tables/empty.json",
+            "tag:displaydelight:food": {}
+        }
+    }
+}

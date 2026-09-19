@@ -1,0 +1,1975 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.crd_clam_bake",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 3,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "group",
+                    "pivot": [
+                        -4,
+                        2,
+                        1
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4,
+                                2,
+                                2.5
+                            ],
+                            "size": [
+                                2,
+                                1,
+                                1
+                            ],
+                            "pivot": [
+                                -3.75,
+                                2.5,
+                                2.5
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        6,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "#missing"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5,
+                                2,
+                                0.5
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                3
+                            ],
+                            "pivot": [
+                                -3.75,
+                                2.5,
+                                2.5
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        6,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        5,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        1,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "group2",
+                    "pivot": [
+                        -4,
+                        2,
+                        1
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4.5,
+                                2,
+                                5.5
+                            ],
+                            "size": [
+                                2,
+                                1,
+                                1
+                            ],
+                            "pivot": [
+                                -4.25,
+                                2.5,
+                                5.5
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        6,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "#missing"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5.5,
+                                2,
+                                3.5
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                3
+                            ],
+                            "pivot": [
+                                -4.25,
+                                2.5,
+                                5.5
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        6,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        7,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        1,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        -1,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -7,
+                                0,
+                                -7
+                            ],
+                            "size": [
+                                14,
+                                2,
+                                14
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "up": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -2,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                4,
+                                2,
+                                6
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        6,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        2
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        6,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        6,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        2
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        12,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        2
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        6
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        4,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        -6
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -1.5,
+                                2,
+                                0.5
+                            ],
+                            "size": [
+                                3,
+                                1.5,
+                                6
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        10,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        14,
+                                        1.5
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        -1.5
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        10,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        8,
+                                        2.5
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1.5
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        6
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        3,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -6
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -2.5,
+                                3,
+                                6
+                            ],
+                            "size": [
+                                5,
+                                0,
+                                2
+                            ],
+                            "pivot": [
+                                0,
+                                3,
+                                7
+                            ],
+                            "rotation": [
+                                22.5,
+                                0,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        8,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        8,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                3,
+                                1.5,
+                                -8
+                            ],
+                            "size": [
+                                2,
+                                1,
+                                3
+                            ],
+                            "pivot": [
+                                5,
+                                1.5,
+                                -8
+                            ],
+                            "rotation": [
+                                0,
+                                0,
+                                22.5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        12,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        12,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        12,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5.23254,
+                                1.84462,
+                                -8
+                            ],
+                            "size": [
+                                2,
+                                1,
+                                3
+                            ],
+                            "pivot": [
+                                -4.23254,
+                                2.34462,
+                                -6.5
+                            ],
+                            "rotation": [
+                                0,
+                                0,
+                                -22.5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        12,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        7,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        4,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                3,
+                                2.5,
+                                -5
+                            ],
+                            "size": [
+                                1,
+                                0,
+                                3
+                            ],
+                            "pivot": [
+                                4,
+                                2.5,
+                                -5
+                            ],
+                            "rotation": [
+                                0,
+                                -45,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        10,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        10,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                2.5,
+                                -6
+                            ],
+                            "size": [
+                                1,
+                                0,
+                                3
+                            ],
+                            "pivot": [
+                                -3.5,
+                                2.5,
+                                -6
+                            ],
+                            "rotation": [
+                                0,
+                                45,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        11,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        10,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                2,
+                                2.5,
+                                -2.5
+                            ],
+                            "size": [
+                                2,
+                                0,
+                                3
+                            ],
+                            "pivot": [
+                                3,
+                                2.5,
+                                -2.5
+                            ],
+                            "rotation": [
+                                0,
+                                0,
+                                22.5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        2,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        4,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4,
+                                2.5,
+                                -2.5
+                            ],
+                            "size": [
+                                2,
+                                0,
+                                3
+                            ],
+                            "pivot": [
+                                -3,
+                                2.5,
+                                -2.5
+                            ],
+                            "rotation": [
+                                0,
+                                0,
+                                -22.5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        4,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        4,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1.5,
+                                3.5,
+                                -9
+                            ],
+                            "size": [
+                                3,
+                                0,
+                                4
+                            ],
+                            "pivot": [
+                                2.5,
+                                3.5,
+                                -8
+                            ],
+                            "rotation": [
+                                0,
+                                -22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        16,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        -4,
+                                        -3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        12,
+                                        16
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        -3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3.92074,
+                                3.5,
+                                -8.88478
+                            ],
+                            "size": [
+                                3,
+                                0,
+                                4
+                            ],
+                            "pivot": [
+                                -2.42074,
+                                3.5,
+                                -6.88478
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        0
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        16,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        -4,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        12,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -6,
+                                2,
+                                -4
+                            ],
+                            "size": [
+                                2,
+                                1,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4.5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        0.5,
+                                        1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "steak"
+                                },
+                                "east": {
+                                    "uv": [
+                                        3.5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        1.5,
+                                        0.5
+                                    ],
+                                    "material_instance": "steak"
+                                },
+                                "south": {
+                                    "uv": [
+                                        3.5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        0.5,
+                                        1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "steak"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4.5,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        1.5,
+                                        0.5
+                                    ],
+                                    "material_instance": "steak"
+                                },
+                                "up": {
+                                    "uv": [
+                                        5.5,
+                                        3.5
+                                    ],
+                                    "uv_size": [
+                                        -1.5,
+                                        1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "steak"
+                                },
+                                "down": {
+                                    "uv": [
+                                        2,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -3
+                                    ],
+                                    "material_instance": "steak"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                4,
+                                2,
+                                -1
+                            ],
+                            "size": [
+                                2,
+                                1,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "east": {
+                                    "uv": [
+                                        3,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "south": {
+                                    "uv": [
+                                        3,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "west": {
+                                    "uv": [
+                                        3,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                },
+                                "up": {
+                                    "uv": [
+                                        6,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        -3,
+                                        2
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "crd_clawster"
+                                },
+                                "down": {
+                                    "uv": [
+                                        5,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        -2,
+                                        -3
+                                    ],
+                                    "material_instance": "crd_clawster"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.75,
+                                3.5,
+                                3.75
+                            ],
+                            "size": [
+                                4,
+                                1,
+                                2
+                            ],
+                            "pivot": [
+                                1.5,
+                                4,
+                                4.75
+                            ],
+                            "rotation": [
+                                0,
+                                0,
+                                45
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        6,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "vegetable_soup"
+                                },
+                                "east": {
+                                    "uv": [
+                                        11,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1
+                                    ],
+                                    "material_instance": "vegetable_soup"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        1
+                                    ],
+                                    "material_instance": "vegetable_soup"
+                                },
+                                "west": {
+                                    "uv": [
+                                        11,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        1
+                                    ],
+                                    "material_instance": "vegetable_soup"
+                                },
+                                "up": {
+                                    "uv": [
+                                        7,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        2
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "vegetable_soup"
+                                },
+                                "down": {
+                                    "uv": [
+                                        7,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        -2
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "vegetable_soup"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -0.75,
+                                4,
+                                3.25
+                            ],
+                            "size": [
+                                2,
+                                0,
+                                3
+                            ],
+                            "pivot": [
+                                1.5,
+                                4,
+                                4.75
+                            ],
+                            "rotation": [
+                                0,
+                                0,
+                                45
+                            ],
+                            "uv": {
+                                "up": {
+                                    "uv": [
+                                        11,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "vegetable_soup"
+                                },
+                                "down": {
+                                    "uv": [
+                                        13,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        -3,
+                                        2
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "vegetable_soup"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        37,
+                        136,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "scale": [
+                        0.8,
+                        0.8,
+                        0.8
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

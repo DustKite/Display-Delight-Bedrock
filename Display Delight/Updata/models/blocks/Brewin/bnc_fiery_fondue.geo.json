@@ -1,0 +1,877 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.bnc_fiery_fondue",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "group",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -3,
+                                0,
+                                -3
+                            ],
+                            "size": [
+                                6,
+                                1,
+                                6
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "west": {
+                                    "uv": [
+                                        5,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "down": {
+                                    "uv": [
+                                        9,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        -6
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4,
+                                1,
+                                -4
+                            ],
+                            "size": [
+                                1,
+                                2,
+                                8
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        9,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "west": {
+                                    "uv": [
+                                        8,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "up": {
+                                    "uv": [
+                                        4,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "salad_bowl"
+                                },
+                                "down": {
+                                    "uv": [
+                                        2,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        -1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "salad_bowl"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                3,
+                                1,
+                                -4
+                            ],
+                            "size": [
+                                1,
+                                2,
+                                8
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        9,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "east": {
+                                    "uv": [
+                                        8,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "south": {
+                                    "uv": [
+                                        6,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "up": {
+                                    "uv": [
+                                        4,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "salad_bowl"
+                                },
+                                "down": {
+                                    "uv": [
+                                        2,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        8,
+                                        -1
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "salad_bowl"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3,
+                                1,
+                                3
+                            ],
+                            "size": [
+                                6,
+                                2,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        10,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "east": {
+                                    "uv": [
+                                        8,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "west": {
+                                    "uv": [
+                                        9,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "up": {
+                                    "uv": [
+                                        6,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "down": {
+                                    "uv": [
+                                        2,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        -1
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "salad_bowl"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3,
+                                1,
+                                -4
+                            ],
+                            "size": [
+                                6,
+                                2,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "east": {
+                                    "uv": [
+                                        8,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "west": {
+                                    "uv": [
+                                        9,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "up": {
+                                    "uv": [
+                                        6,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        1
+                                    ],
+                                    "material_instance": "salad_bowl"
+                                },
+                                "down": {
+                                    "uv": [
+                                        2,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        -1
+                                    ],
+                                    "uv_rotation": 180,
+                                    "material_instance": "salad_bowl"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -3,
+                                1,
+                                -3
+                            ],
+                            "size": [
+                                6,
+                                1.5,
+                                6
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "east": {
+                                    "uv": [
+                                        6,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "south": {
+                                    "uv": [
+                                        6,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "west": {
+                                    "uv": [
+                                        6,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        6
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3,
+                                2,
+                                -0.5
+                            ],
+                            "size": [
+                                3,
+                                2,
+                                3
+                            ],
+                            "pivot": [
+                                -1.5,
+                                3,
+                                1
+                            ],
+                            "rotation": [
+                                22.5,
+                                0,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "east": {
+                                    "uv": [
+                                        6,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "south": {
+                                    "uv": [
+                                        9,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "west": {
+                                    "uv": [
+                                        6,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        -3,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "up": {
+                                    "uv": [
+                                        6,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -3
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.5,
+                                1.5,
+                                -2.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                3
+                            ],
+                            "pivot": [
+                                1.5,
+                                2.5,
+                                -1
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        6,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "east": {
+                                    "uv": [
+                                        9,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "south": {
+                                    "uv": [
+                                        11,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "west": {
+                                    "uv": [
+                                        3,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "up": {
+                                    "uv": [
+                                        9,
+                                        10
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        3
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -3
+                                    ],
+                                    "material_instance": "bnc_fiery_fondue"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        -153,
+                        20,
+                        -180
+                    ],
+                    "translation": [
+                        0.25,
+                        5.5,
+                        0
+                    ],
+                    "scale": [
+                        1.3,
+                        1.3,
+                        1.3
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

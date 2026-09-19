@@ -1,0 +1,1291 @@
+{
+    "format_version": "1.21.110",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.mnd_plated_fries_ghasta_2",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 1.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.25,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "group",
+                    "pivot": [
+                        0,
+                        2.5,
+                        2
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4,
+                                2,
+                                -4
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                2
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "east": {
+                                    "uv": [
+                                        5,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "west": {
+                                    "uv": [
+                                        7,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "up": {
+                                    "uv": [
+                                        1,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "down": {
+                                    "uv": [
+                                        8,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                2,
+                                -2
+                            ],
+                            "size": [
+                                3,
+                                2,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "south": {
+                                    "uv": [
+                                        4,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        -3
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                1.5,
+                                1
+                            ],
+                            "size": [
+                                3,
+                                2,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        9,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "east": {
+                                    "uv": [
+                                        10,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "south": {
+                                    "uv": [
+                                        9,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "west": {
+                                    "uv": [
+                                        10,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "up": {
+                                    "uv": [
+                                        12,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        -3,
+                                        -3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "down": {
+                                    "uv": [
+                                        12,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        -3,
+                                        -3
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "mnd_fries_ghasta"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -6.5,
+                                2.5,
+                                0
+                            ],
+                            "size": [
+                                7,
+                                0,
+                                6
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        12,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "east": {
+                                    "uv": [
+                                        9,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "south": {
+                                    "uv": [
+                                        13,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "west": {
+                                    "uv": [
+                                        12,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "up": {
+                                    "uv": [
+                                        11,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        -7
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "down": {
+                                    "uv": [
+                                        5,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        -7
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fries_ghasta"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5.5,
+                                2.5,
+                                1.5
+                            ],
+                            "size": [
+                                5,
+                                2,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_spicy_cotten"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_spicy_cotten"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "up": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        0
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "down": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        0
+                                    ],
+                                    "material_instance": "#missing"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5.5,
+                                2.5,
+                                3
+                            ],
+                            "size": [
+                                5,
+                                2,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_spicy_cotten"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_spicy_cotten"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "up": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        0
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "down": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        0
+                                    ],
+                                    "material_instance": "#missing"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "group2",
+                    "pivot": [
+                        0,
+                        2.5,
+                        2
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                2,
+                                2,
+                                -5.5
+                            ],
+                            "size": [
+                                2,
+                                2,
+                                2
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "east": {
+                                    "uv": [
+                                        5,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "south": {
+                                    "uv": [
+                                        7,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "west": {
+                                    "uv": [
+                                        7,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "down": {
+                                    "uv": [
+                                        8,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        -2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1.5,
+                                2,
+                                -3.5
+                            ],
+                            "size": [
+                                3,
+                                2,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        4,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "south": {
+                                    "uv": [
+                                        4,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "up": {
+                                    "uv": [
+                                        1,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        4,
+                                        -3
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1.5,
+                                1.5,
+                                -0.5
+                            ],
+                            "size": [
+                                3,
+                                2,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        9,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "east": {
+                                    "uv": [
+                                        10,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "south": {
+                                    "uv": [
+                                        9,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "west": {
+                                    "uv": [
+                                        10,
+                                        2
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "up": {
+                                    "uv": [
+                                        9,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -3
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "down": {
+                                    "uv": [
+                                        12,
+                                        4
+                                    ],
+                                    "uv_size": [
+                                        -3,
+                                        -3
+                                    ],
+                                    "uv_rotation": 270,
+                                    "material_instance": "mnd_fries_ghasta"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.5,
+                                2.5,
+                                -1.5
+                            ],
+                            "size": [
+                                6,
+                                0,
+                                6
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        12.42857,
+                                        7
+                                    ],
+                                    "uv_size": [
+                                        2.57143,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "east": {
+                                    "uv": [
+                                        9,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "south": {
+                                    "uv": [
+                                        13,
+                                        8
+                                    ],
+                                    "uv_size": [
+                                        2.57143,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "west": {
+                                    "uv": [
+                                        12,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "up": {
+                                    "uv": [
+                                        11,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -6,
+                                        -6
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fries_ghasta"
+                                },
+                                "down": {
+                                    "uv": [
+                                        5,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        6,
+                                        -6
+                                    ],
+                                    "uv_rotation": 90,
+                                    "material_instance": "mnd_fries_ghasta"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.5,
+                                2.5,
+                                0
+                            ],
+                            "size": [
+                                5,
+                                2,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_spicy_cotten"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_spicy_cotten"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "up": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        0
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "down": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        0
+                                    ],
+                                    "material_instance": "#missing"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.5,
+                                2.5,
+                                1.5
+                            ],
+                            "size": [
+                                5,
+                                2,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_spicy_cotten"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        2
+                                    ],
+                                    "material_instance": "mnd_spicy_cotten"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        0,
+                                        2
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "up": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        0
+                                    ],
+                                    "material_instance": "#missing"
+                                },
+                                "down": {
+                                    "uv": [
+                                        7,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        -7,
+                                        0
+                                    ],
+                                    "material_instance": "#missing"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -7,
+                                0,
+                                -7
+                            ],
+                            "size": [
+                                14,
+                                2,
+                                14
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "up": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        37,
+                        44,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "scale": [
+                        0.8,
+                        0.8,
+                        0.8
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

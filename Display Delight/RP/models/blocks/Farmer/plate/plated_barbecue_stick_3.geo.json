@@ -1,0 +1,2083 @@
+{
+    "format_version": "1.21.90",
+    "minecraft:geometry": [
+        {
+            "description": {
+                "identifier": "geometry.displaydelight.plated_barbecue_stick_3",
+                "texture_width": 16,
+                "texture_height": 16,
+                "visible_bounds_width": 2,
+                "visible_bounds_height": 2.5,
+                "visible_bounds_offset": [
+                    0,
+                    0.75,
+                    0
+                ]
+            },
+            "bones": [
+                {
+                    "name": "group",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -6.74482,
+                                3,
+                                2.38678
+                            ],
+                            "size": [
+                                14.5,
+                                1,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        -1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                1.5,
+                                2.36867,
+                                1.22792
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        3,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        6,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -3.5,
+                                2,
+                                1.74033
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        3,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        6,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.5,
+                                2.25,
+                                1.74384
+                            ],
+                            "size": [
+                                1,
+                                3,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        11,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        9,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        9,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        1,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        2,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -0.5,
+                                2.8,
+                                1.93821
+                            ],
+                            "size": [
+                                1,
+                                2,
+                                2
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        11,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        11,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        12,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        13,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                4.5,
+                                2,
+                                0.02713
+                            ],
+                            "size": [
+                                1,
+                                3,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        3,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        9,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        5
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        10,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -5
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                4.5,
+                                5.0013,
+                                1
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        11,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        12,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        12,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "group2",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -7.74482,
+                                3,
+                                -3.11322
+                            ],
+                            "size": [
+                                14.5,
+                                1,
+                                1
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        -1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0.5,
+                                2.36867,
+                                -4.27208
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        3,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        6,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -4.5,
+                                2,
+                                -3.75967
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        3,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        6,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -0.5,
+                                2.25,
+                                -3.75616
+                            ],
+                            "size": [
+                                1,
+                                3,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        11,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        9,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        9,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        1,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        2,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -1.5,
+                                2.8,
+                                -3.56179
+                            ],
+                            "size": [
+                                1,
+                                2,
+                                2
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        11,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        11,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        12,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        13,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                3.5,
+                                2,
+                                -5.47287
+                            ],
+                            "size": [
+                                1,
+                                3,
+                                5
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        3,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        9,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        5
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        10,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -5
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                3.5,
+                                5.0013,
+                                -4.5
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                3
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        11,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        12,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        12,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "group3",
+                    "pivot": [
+                        0,
+                        8,
+                        0
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -8.24482,
+                                6.5,
+                                -0.61322
+                            ],
+                            "size": [
+                                14.5,
+                                1,
+                                1
+                            ],
+                            "pivot": [
+                                0,
+                                8.00065,
+                                -0.12808
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        4,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        0
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        0,
+                                        1
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        15,
+                                        -1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                0,
+                                5.36867,
+                                -1.77208
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                3
+                            ],
+                            "pivot": [
+                                0,
+                                7.50065,
+                                -0.12808
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        3,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        6,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -5,
+                                5,
+                                -1.25967
+                            ],
+                            "size": [
+                                3,
+                                3,
+                                3
+                            ],
+                            "pivot": [
+                                0,
+                                7.50065,
+                                -0.12808
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        3,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        6,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -1,
+                                5.75,
+                                -1.25616
+                            ],
+                            "size": [
+                                1,
+                                3,
+                                3
+                            ],
+                            "pivot": [
+                                0,
+                                8.00065,
+                                -0.12808
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        11,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        9,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        0,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        9,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        1,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        2,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                -2,
+                                6.3,
+                                -1.06179
+                            ],
+                            "size": [
+                                1,
+                                2,
+                                2
+                            ],
+                            "pivot": [
+                                0,
+                                8.00065,
+                                -0.12808
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        7,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        11,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        8,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        11,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        2,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        12,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        13,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -2
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                3,
+                                5.5,
+                                -2.97287
+                            ],
+                            "size": [
+                                1,
+                                3,
+                                5
+                            ],
+                            "pivot": [
+                                0,
+                                8.00065,
+                                -0.12808
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        3,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        3,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        0,
+                                        3
+                                    ],
+                                    "uv_size": [
+                                        5,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        9,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        5
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        10,
+                                        14
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -5
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        },
+                        {
+                            "origin": [
+                                3,
+                                8.5013,
+                                -2
+                            ],
+                            "size": [
+                                1,
+                                1,
+                                3
+                            ],
+                            "pivot": [
+                                0,
+                                8.00065,
+                                -0.12808
+                            ],
+                            "rotation": [
+                                0,
+                                22.5,
+                                0
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        5,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "east": {
+                                    "uv": [
+                                        11,
+                                        5
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "south": {
+                                    "uv": [
+                                        5,
+                                        13
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "west": {
+                                    "uv": [
+                                        4,
+                                        12
+                                    ],
+                                    "uv_size": [
+                                        3,
+                                        1
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "up": {
+                                    "uv": [
+                                        12,
+                                        6
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                },
+                                "down": {
+                                    "uv": [
+                                        12,
+                                        9
+                                    ],
+                                    "uv_size": [
+                                        1,
+                                        -3
+                                    ],
+                                    "material_instance": "barbecue_on_stick"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "bone",
+                    "pivot": [
+                        8,
+                        0,
+                        -8
+                    ],
+                    "cubes": [
+                        {
+                            "origin": [
+                                -7,
+                                0,
+                                -7
+                            ],
+                            "size": [
+                                14,
+                                2,
+                                14
+                            ],
+                            "uv": {
+                                "north": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "east": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "south": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "west": {
+                                    "uv": [
+                                        1,
+                                        11
+                                    ],
+                                    "uv_size": [
+                                        14,
+                                        2
+                                    ],
+                                    "material_instance": "tray_bottom"
+                                },
+                                "up": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                },
+                                "down": {
+                                    "uv": [
+                                        15,
+                                        15
+                                    ],
+                                    "uv_size": [
+                                        -14,
+                                        -14
+                                    ],
+                                    "material_instance": "tray_top"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "item_display_transforms": {
+                "thirdperson_righthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [
+                        63,
+                        142,
+                        0
+                    ],
+                    "translation": [
+                        0.5,
+                        3.75,
+                        2
+                    ],
+                    "scale": [
+                        0.7,
+                        0.7,
+                        0.7
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_righthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [
+                        4,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        7,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "ground": {
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        2.5,
+                        0
+                    ],
+                    "scale": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "gui": {
+                    "rotation": [
+                        37,
+                        44,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        4,
+                        0
+                    ],
+                    "scale": [
+                        0.8,
+                        0.8,
+                        0.8
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "fit_to_frame": false
+                },
+                "fixed": {
+                    "rotation": [
+                        -90,
+                        0,
+                        0
+                    ],
+                    "translation": [
+                        0,
+                        0,
+                        -16
+                    ],
+                    "scale": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "rotation_pivot": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale_pivot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}
