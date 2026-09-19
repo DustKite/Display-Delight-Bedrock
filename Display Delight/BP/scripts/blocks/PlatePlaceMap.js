@@ -79,7 +79,7 @@ export const PLATE_RECIPES = {
         "farmersdelight:pumpkin_pie_slice": { block: "displaydelight:small_plated_pumpkin_pie_slice", max: 1 },
 
         //Pineapple Delight
-        "pineapple_delight:pineapple_pie_side": { block: "displaydelight:pd_small_plated_pineapple_pie_slice", max: 1 },
+        "pineapple_delight:pineapple_pie_side": { block: "displaydelight:pd_small_plated_pineapple_pie_side", max: 1 },
         "pineapple_delight:pineapple_cake_slice": { block: "displaydelight:pd_small_plated_pineapple_cake_slice", max: 1 },
 
         //Ocean's Delight

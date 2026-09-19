@@ -197,6 +197,60 @@
     "displaydelight:vegetable_soup": {
         "sound": "cloth"
     },
+    "displaydelight:lm_chicken_curry": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_cod_deluxe": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_hearty_lunch": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_mushroom_pot_pie": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_omurice": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_rice_pudding": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_pasta_with_mushroom_sauce": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_pufferfish_broth": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_tomato_egg_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_red_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_roasted_mutton_rack": {
+        "sound": "cloth"
+    },
+    "displaydelight:lm_sweet_berry_custard": {
+        "sound": "glass"
+    },
+    "displaydelight:pd_pineapple_fried_rice": {
+        "sound": "cloth"
+    },
+    "displaydelight:pd_pineapple_ice_cream": {
+        "sound": "glass"
+    },
+    "displaydelight:pd_pineapple_juice": {
+        "sound": "glass"
+    },
+    "displaydelight:pd_pineapple_milk_shake": {
+        "sound": "glass"
+    },
+    "displaydelight:pd_small_plated_pineapple_cake_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:pd_small_plated_pineapple_pie_side": {
+        "sound": "cloth"
+    },
     "format_version": [
         1,
         1,

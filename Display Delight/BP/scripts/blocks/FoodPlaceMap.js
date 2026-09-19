@@ -57,7 +57,7 @@ export const FOOD_PLACE_MAP = {
     //Pineapple Delight
     "pineapple_delight:pineapple_fried_rice": "displaydelight:pd_pineapple_fried_rice",
     "pineapple_delight:pineapple_ice_cream": "displaydelight:pd_pineapple_ice_cream",
-    "pineapple_delight:pineapple_milk_shake": "displaydelight:pd_pineapple_milk_shake",
+    "pineapple_delight:pineapple_milkshake": "displaydelight:pd_pineapple_milk_shake",
     "pineapple_delight:pineapple_juice": "displaydelight:pd_pineapple_juice",
 
     //Ocean's Delight
@@ -67,19 +67,19 @@ export const FOOD_PLACE_MAP = {
     "oceansdelight:squid_rings": "displaydelight:od_squid_rings",
 
     //Large Meals
-    "largemeals:pufferfish_broth": "displaydelight:lm_pufferfish_broth",
-    "largemeals:potato_soup": "displaydelight:lm_potato_soup",
-    "largemeals:red_soup": "displaydelight:lm_red_soup",
-    "largemeals:tomato_egg_soup": "displaydelight:lm_tomato_egg_soup",
-    "largemeals:cod_deluxe": "displaydelight:lm_cod_deluxe",
-    "largemeals:hearty_lunch": "displaydelight:lm_hearty_lunch",
-    "largemeals:chicken_curry": "displaydelight:lm_chicken_curry",
-    "largemeals:pasta_with_mushroom_sauce": "displaydelight:lm_pasta_with_mushroom_sauce",
-    "largemeals:omurice": "displaydelight:lm_omurice",
-    "largemeals:mushroom_pot_pie": "displaydelight:lm_mushroom_pot_pie",
-    "largemeals:roasted_mutton_rack": "displaydelight:lm_roasted_muttoh_rack",
-    "largemeals:sweet_berry_custard": "displaydelight:lm_sweet_berry_custard",
-    "largemeals:rice_pudding": "displaydelight:lm_rice_pudding",
+    "large_meals:pufferfish_broth": "displaydelight:lm_pufferfish_broth",
+    "large_meals:potato_soup": "displaydelight:lm_potato_soup",
+    "large_meals:red_soup": "displaydelight:lm_red_soup",
+    "large_meals:tomato_egg_soup": "displaydelight:lm_tomato_egg_soup",
+    "large_meals:cod_deluxe": "displaydelight:lm_cod_deluxe",
+    "large_meals:hearty_lunch": "displaydelight:lm_hearty_lunch",
+    "large_meals:chicken_curry": "displaydelight:lm_chicken_curry",
+    "large_meals:pasta_with_mushroom_sauce": "displaydelight:lm_pasta_with_mushroom_sauce",
+    "large_meals:omurice": "displaydelight:lm_omurice",
+    "large_meals:mushroom_pot_pie": "displaydelight:lm_mushroom_pot_pie",
+    "large_meals:roasted_mutton_rack": "displaydelight:lm_roasted_muttoh_rack",
+    "large_meals:sweet_berry_custard": "displaydelight:lm_sweet_berry_custard",
+    "large_meals:rice_pudding": "displaydelight:lm_rice_pudding",
 
     //End's Delight
     "ends_delight:dragon_breath_and_chorus_soup": "displaydelight:edd_dragon_breath_and_chorus_soup",

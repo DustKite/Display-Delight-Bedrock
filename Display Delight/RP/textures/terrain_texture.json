@@ -156,9 +156,6 @@
     "displaydelight:plated_cake_slice": {
       "textures": "textures/blocks/displaydelight/Famer/plated_cake_slice"
     },
-    "displaydelight:plated_pineapple_cake_slice": {
-      "textures": "textures/blocks/displaydelight/Famer/plated_pineapple_cake_slice"
-    },
     "displaydelight:pumpkin_soup": {
       "textures": "textures/blocks/displaydelight/Famer/pumpkin_soup"
     },
@@ -260,6 +257,54 @@
     },
     "displaydelight:wood_support_oak": {
       "textures": "textures/blocks/displaydelight/Famer/wood_support_oak"
+    },
+    "displaydelight:lm_chicken_curry": {
+      "textures": "textures/blocks/displaydelight/Large/lm_chicken_curry"
+    },
+    "displaydelight:lm_cod_deluxe": {
+      "textures": "textures/blocks/displaydelight/Large/lm_cod_deluxe"
+    },
+    "displaydelight:lm_mushroom_pot_pie": {
+      "textures": "textures/blocks/displaydelight/Large/lm_mushroom_pot_pie"
+    },
+    "displaydelight:lm_omurice": {
+      "textures": "textures/blocks/displaydelight/Large/lm_omurice"
+    },
+    "displaydelight:lm_pasta_with_mushroom_sauce": {
+      "textures": "textures/blocks/displaydelight/Large/lm_pasta_with_mushroom_sauce"
+    },
+    "displaydelight:lm_potato_soup": {
+      "textures": "textures/blocks/displaydelight/Large/lm_potato_soup"
+    },
+    "displaydelight:lm_pufferfish_broth": {
+      "textures": "textures/blocks/displaydelight/Large/lm_pufferfish_broth"
+    },
+    "displaydelight:lm_red_soup": {
+      "textures": "textures/blocks/displaydelight/Large/lm_red_soup"
+    },
+    "displaydelight:lm_rice_pudding": {
+      "textures": "textures/blocks/displaydelight/Large/lm_rice_pudding"
+    },
+    "displaydelight:lm_roasted_mutton_rack": {
+      "textures": "textures/blocks/displaydelight/Large/lm_roasted_mutton_rack"
+    },
+    "displaydelight:lm_tomato_egg_soup": {
+      "textures": "textures/blocks/displaydelight/Large/lm_tomato_egg_soup"
+    },
+    "displaydelight:pd_pineapple_fried_rice": {
+      "textures": "textures/blocks/displaydelight/Pineapple/pd_pineapple_fried_rice"
+    },
+    "displaydelight:pd_pineapple_juice": {
+      "textures": "textures/blocks/displaydelight/Pineapple/pd_pineapple_juice"
+    },
+    "displaydelight:pd_pineapple_milk_shake": {
+      "textures": "textures/blocks/displaydelight/Pineapple/pd_pineapple_milk_shake"
+    },
+    "displaydelight:pd_pineapple_pie_slice": {
+      "textures": "textures/blocks/displaydelight/Pineapple/pd_pineapple_pie_slice"
+    },
+    "displaydelight:plated_pineapple_cake_slice": {
+      "textures": "textures/blocks/displaydelight/Pineapple/plated_pineapple_cake_slice"
     }
   }
 }
