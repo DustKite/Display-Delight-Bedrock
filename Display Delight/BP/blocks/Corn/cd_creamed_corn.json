@@ -2,7 +2,7 @@
     "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
-            "identifier": "displaydelight:lm_rice_pudding",
+            "identifier": "displaydelight:cd_creamed_corn",
             "menu_category": {
                 "category": "none"
             },
@@ -99,11 +99,11 @@
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "displaydelight:lm_rice_pudding",
+                    "texture": "displaydelight:cd_creamed_corn",
                     "render_method": "alpha_test_single_sided"
                 },
                 "cooked_rice": {
-                    "texture": "displaydelight:lm_rice_pudding",
+                    "texture": "displaydelight:cd_creamed_corn",
                     "render_method": "alpha_test_single_sided"
                 },
                 "salad_bowl": {

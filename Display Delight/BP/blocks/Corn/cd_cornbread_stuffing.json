@@ -2,7 +2,7 @@
     "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
-            "identifier": "displaydelight:lm_rice_pudding",
+            "identifier": "displaydelight:cd_cornbread_stuffing",
             "menu_category": {
                 "category": "none"
             },
@@ -66,7 +66,7 @@
             }
         ],
         "components": {
-            "minecraft:geometry": "geometry.displaydelight.cooked_rice",
+            "minecraft:geometry": "geometry.displaydelight.cd_cornbread_stuffing",
             "minecraft:destructible_by_mining": {
                 "seconds_to_destroy": 0.01
             },
@@ -81,8 +81,8 @@
                 ],
                 "size": [
                     8,
-                    7.77164,
-                    8.57193
+                    7.27164,
+                    8.07193
                 ]
             },
             "minecraft:selection_box": {
@@ -93,21 +93,25 @@
                 ],
                 "size": [
                     8,
-                    7.77164,
-                    8.57193
+                    7.27164,
+                    8.07193
                 ]
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "displaydelight:lm_rice_pudding",
+                    "texture": "displaydelight:cd_cornbread_stuffing",
                     "render_method": "alpha_test_single_sided"
                 },
-                "cooked_rice": {
-                    "texture": "displaydelight:lm_rice_pudding",
+                "cd_cornbread_stuffing": {
+                    "texture": "displaydelight:cd_cornbread_stuffing",
                     "render_method": "alpha_test_single_sided"
                 },
                 "salad_bowl": {
                     "texture": "displaydelight:salad_bowl",
+                    "render_method": "alpha_test_single_sided"
+                },
+                "spoon": {
+                    "texture": "displaydelight:spoon",
                     "render_method": "alpha_test_single_sided"
                 }
             },

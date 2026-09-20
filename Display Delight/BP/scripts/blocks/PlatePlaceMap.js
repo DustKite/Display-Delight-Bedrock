@@ -31,16 +31,16 @@ export const PLATE_RECIPES = {
         "minecraft:cookie": { block: "displaydelight:plated_cookie", max: 4 },
 
         //Corn Delight
-        "corn_delight:grilled_corn": { block: "displaydelight:cd_plated_grilled_corn", max: 1 },
-        "corn_delight:classic_corn_dog": { block: "displaydelight:cd_plated_classic_corn_dog", max: 1 },
-        "corn_delight:taco": { block: "displaydelight:cd_plated_taco", max: 1 },
+        "corn_delight:grilled_corn": { block: "displaydelight:cd_plated_grilled_corn", max: 2 },
+        "corn_delight:classic_corn_dog": { block: "displaydelight:cd_plated_classic_corn_dog", max: 2 },
+        "corn_delight:taco": { block: "displaydelight:cd_plated_taco", max: 2 },
 
         //Ocean's Delight
-        "oceansdelight:baked_tentacle_on_a_stick": { block: "displaydelight:od_plated_baked_tentacle_on_a_stick", max: 1 },
+        "oceansdelight:baked_tentacle_on_a_stick": { block: "displaydelight:od_plated_baked_tentacle_on_a_stick", max: 2 },
         "oceansdelight:elder_guardian_roll": { block: "displaydelight:od_plated_elder_guardian_roll", max: 6 },
         "oceansdelight:fugu_roll": { block: "displaydelight:od_plated_fugu_roll", max: 6 },
         "oceansdelight:honey_fried_kelp": { block: "displaydelight:od_plated_honey_fried_kelp", max: 1 },
-        "oceansdelight:cooked_stuffed_cod": { block: "displaydelight:od_plated_cooked_stuffed_cod", max: 1 },
+        "oceansdelight:cooked_stuffed_cod": { block: "displaydelight:od_plated_cooked_stuffed_cod", max: 2 },
 
         //Brewin' and Chewin'
         "brewinandchewin:ham_and_cheese_sandwich": { block: "displaydelight:bnc_plated_ham_and_cheese_sandwich", max: 1 },

@@ -48,11 +48,11 @@ export const FOOD_PLACE_MAP = {
     "brewinandchewin:vegetable_omelet": "displaydelight:bnc_vegetable_omelet",
 
     //Corn Delight
-    "corn_delight:nachos_bowl": "displaydelight:cd_nachos_bowl",
+    "corn_delight:nachos": "displaydelight:cd_nachos_bowl",
     "corn_delight:corn_soup": "displaydelight:cd_corn_soup",
     "corn_delight:cornbread_stuffing": "displaydelight:cd_cornbread_stuffing",
     "corn_delight:creamed_corn": "displaydelight:cd_creamed_corn",
-    "corn_delight:creamy_corn_drink": "displaydelight:cd_creamy_cor_drink",
+    "corn_delight:creamy_corn_drink": "displaydelight:cd_creamy_corn_drink",
 
     //Pineapple Delight
     "pineapple_delight:pineapple_fried_rice": "displaydelight:pd_pineapple_fried_rice",
@@ -61,7 +61,7 @@ export const FOOD_PLACE_MAP = {
     "pineapple_delight:pineapple_juice": "displaydelight:pd_pineapple_juice",
 
     //Ocean's Delight
-    "oceansdelight:bowl_of_guardian_soup": "displaydelight:od_bowl_of_guardian_soup",
+    "oceansdelight:guardian_soup": "displaydelight:od_bowl_of_guardian_soup",
     "oceansdelight:braised_sea_pickle": "displaydelight:od_braised_sea_pickle",
     "oceansdelight:seagrass_salad": "displaydelight:od_seagrass_salad",
     "oceansdelight:squid_rings": "displaydelight:od_squid_rings",

@@ -2,7 +2,7 @@
     "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
-            "identifier": "displaydelight:lm_rice_pudding",
+            "identifier": "displaydelight:od_plated_honey_fried_kelp",
             "menu_category": {
                 "category": "none"
             },
@@ -66,7 +66,7 @@
             }
         ],
         "components": {
-            "minecraft:geometry": "geometry.displaydelight.cooked_rice",
+            "minecraft:geometry": "geometry.displaydelight.od_plated_honey_fried_kelp",
             "minecraft:destructible_by_mining": {
                 "seconds_to_destroy": 0.01
             },
@@ -75,40 +75,44 @@
             },
             "minecraft:collision_box": {
                 "origin": [
-                    -4,
-                    0,
-                    -4
+                    -7.0,
+                    0.0,
+                    -7.0
                 ],
                 "size": [
-                    8,
-                    7.77164,
-                    8.57193
+                    14.0,
+                    4.0,
+                    14.0
                 ]
             },
             "minecraft:selection_box": {
                 "origin": [
-                    -4,
-                    0,
-                    -4
+                    -7.0,
+                    0.0,
+                    -7.0
                 ],
                 "size": [
-                    8,
-                    7.77164,
-                    8.57193
+                    14.0,
+                    4.0,
+                    14.0
                 ]
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "displaydelight:lm_rice_pudding",
-                    "render_method": "alpha_test_single_sided"
+                    "texture": "displaydelight:od_honey_fried_kelp",
+                    "render_method": "alpha_test"
                 },
-                "cooked_rice": {
-                    "texture": "displaydelight:lm_rice_pudding",
-                    "render_method": "alpha_test_single_sided"
+                "od_honey_fried_kelp": {
+                    "texture": "displaydelight:od_honey_fried_kelp",
+                    "render_method": "alpha_test"
                 },
-                "salad_bowl": {
-                    "texture": "displaydelight:salad_bowl",
-                    "render_method": "alpha_test_single_sided"
+                "tray_bottom": {
+                    "texture": "displaydelight:tray_bottom",
+                    "render_method": "alpha_test"
+                },
+                "tray_top": {
+                    "texture": "displaydelight:tray_top",
+                    "render_method": "alpha_test"
                 }
             },
             "minecraft:connection_rule": {

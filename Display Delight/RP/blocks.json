@@ -251,6 +251,63 @@
     "displaydelight:pd_small_plated_pineapple_pie_side": {
         "sound": "cloth"
     },
+    "displaydelight:cd_corn_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:cd_cornbread_stuffing": {
+        "sound": "cloth"
+    },
+    "displaydelight:cd_creamed_corn": {
+        "sound": "cloth"
+    },
+    "displaydelight:cd_creamy_corn_drink": {
+        "sound": "glass"
+    },
+    "displaydelight:cd_nachos_bowl": {
+        "sound": "cloth"
+    },
+    "displaydelight:cd_plated_classic_corn_dog": {
+        "sound": "cloth"
+    },
+    "displaydelight:cd_plated_grilled_corn": {
+        "sound": "cloth"
+    },
+    "displaydelight:cd_plated_taco": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_bowl_of_guardian_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_braised_sea_pickle": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_plated_baked_tentacle_on_a_stick": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_plated_cooked_stuffed_cod": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_plated_elder_guardian_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_plated_fugu_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_plated_honey_fried_kelp": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_seagrass_salad": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_small_plated_elder_guardian_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_small_plated_fugu_roll": {
+        "sound": "cloth"
+    },
+    "displaydelight:od_squid_rings": {
+        "sound": "cloth"
+    },
     "format_version": [
         1,
         1,

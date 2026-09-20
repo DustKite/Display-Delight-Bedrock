@@ -12,6 +12,30 @@
     "displaydelight:ed_asparagus_and_bacon_cheesy": {
       "textures": "textures/blocks/displaydelight/ed_asparagus_and_bacon_cheesy"
     },
+    "displaydelight:cd_classic_corn_dog": {
+      "textures": "textures/blocks/displaydelight/Corn/cd_classic_corn_dog"
+    },
+    "displaydelight:cd_cornbread_stuffing": {
+      "textures": "textures/blocks/displaydelight/Corn/cd_cornbread_stuffing"
+    },
+    "displaydelight:cd_corn_soup": {
+      "textures": "textures/blocks/displaydelight/Corn/cd_corn_soup"
+    },
+    "displaydelight:cd_creamed_corn": {
+      "textures": "textures/blocks/displaydelight/Corn/cd_creamed_corn"
+    },
+    "displaydelight:cd_creamy_corn_drink": {
+      "textures": "textures/blocks/displaydelight/Corn/cd_creamy_corn_drink"
+    },
+    "displaydelight:cd_grilled_corn": {
+      "textures": "textures/blocks/displaydelight/Corn/cd_grilled_corn"
+    },
+    "displaydelight:cd_nachos_bowl": {
+      "textures": "textures/blocks/displaydelight/Corn/cd_nachos_bowl"
+    },
+    "displaydelight:cd_taco": {
+      "textures": "textures/blocks/displaydelight/Corn/cd_taco"
+    },
     "displaydelight:apple_cider": {
       "textures": "textures/blocks/displaydelight/Famer/apple_cider"
     },
@@ -290,6 +314,33 @@
     },
     "displaydelight:lm_tomato_egg_soup": {
       "textures": "textures/blocks/displaydelight/Large/lm_tomato_egg_soup"
+    },
+    "displaydelight:od_baked_tentacle_on_a_stick": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_baked_tentacle_on_a_stick"
+    },
+    "displaydelight:od_braised_sea_pickle": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_braised_sea_pickle"
+    },
+    "displaydelight:od_cooked_stuffed_cod": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_cooked_stuffed_cod"
+    },
+    "displaydelight:od_elder_guardian_roll": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_elder_guardian_roll"
+    },
+    "displaydelight:od_fugu_roll": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_fugu_roll"
+    },
+    "displaydelight:od_guardian_soup_bowl": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_guardian_soup_bowl"
+    },
+    "displaydelight:od_honey_fried_kelp": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_honey_fried_kelp"
+    },
+    "displaydelight:od_seagrass_salad": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_seagrass_salad"
+    },
+    "displaydelight:od_squid_rings": {
+      "textures": "textures/blocks/displaydelight/Ocean/od_squid_rings"
     },
     "displaydelight:pd_pineapple_fried_rice": {
       "textures": "textures/blocks/displaydelight/Pineapple/pd_pineapple_fried_rice"

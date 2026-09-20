@@ -2,7 +2,7 @@
     "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
-            "identifier": "displaydelight:lm_rice_pudding",
+            "identifier": "displaydelight:od_small_plated_elder_guardian_roll",
             "menu_category": {
                 "category": "none"
             },
@@ -66,7 +66,7 @@
             }
         ],
         "components": {
-            "minecraft:geometry": "geometry.displaydelight.cooked_rice",
+            "minecraft:geometry": "geometry.displaydelight.small_plated_salmon_roll",
             "minecraft:destructible_by_mining": {
                 "seconds_to_destroy": 0.01
             },
@@ -75,39 +75,39 @@
             },
             "minecraft:collision_box": {
                 "origin": [
-                    -4,
-                    0,
-                    -4
+                    -7.0,
+                    0.0,
+                    -7.0
                 ],
                 "size": [
-                    8,
-                    7.77164,
-                    8.57193
+                    14.0,
+                    4.0,
+                    14.0
                 ]
             },
             "minecraft:selection_box": {
                 "origin": [
-                    -4,
-                    0,
-                    -4
+                    -7.0,
+                    0.0,
+                    -7.0
                 ],
                 "size": [
-                    8,
-                    7.77164,
-                    8.57193
+                    14.0,
+                    4.0,
+                    14.0
                 ]
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "displaydelight:lm_rice_pudding",
+                    "texture": "displaydelight:od_elder_guardian_roll",
                     "render_method": "alpha_test_single_sided"
                 },
-                "cooked_rice": {
-                    "texture": "displaydelight:lm_rice_pudding",
+                "salmon_roll": {
+                    "texture": "displaydelight:od_elder_guardian_roll",
                     "render_method": "alpha_test_single_sided"
                 },
-                "salad_bowl": {
-                    "texture": "displaydelight:salad_bowl",
+                "small_plate": {
+                    "texture": "displaydelight:small_plate",
                     "render_method": "alpha_test_single_sided"
                 }
             },
