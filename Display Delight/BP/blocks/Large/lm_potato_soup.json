@@ -2,7 +2,7 @@
     "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
-            "identifier": "displaydelight:small_plated_sweet_berry_cheesecake_slice",
+            "identifier": "displaydelight:lm_potato_soup",
             "menu_category": {
                 "category": "none"
             },
@@ -66,7 +66,7 @@
             }
         ],
         "components": {
-            "minecraft:geometry": "geometry.displaydelight.small_plated_chocolate_pie_slice",
+            "minecraft:geometry": "geometry.displaydelight.mushroom_stew",
             "minecraft:destructible_by_mining": {
                 "seconds_to_destroy": 0.01
             },
@@ -81,8 +81,8 @@
                 ],
                 "size": [
                     8,
-                    5,
-                    8
+                    6.77164,
+                    8.07193
                 ]
             },
             "minecraft:selection_box": {
@@ -93,25 +93,21 @@
                 ],
                 "size": [
                     8,
-                    5,
-                    8
+                    6.77164,
+                    8.07193
                 ]
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "displaydelight:sweet_berry_cheesecake",
+                    "texture": "displaydelight:mushroom_stew",
                     "render_method": "alpha_test_single_sided"
                 },
-                "chocolate_pie": {
-                    "texture": "displaydelight:sweet_berry_cheesecake",
+                "mushroom_stew": {
+                    "texture": "displaydelight:lm_potato_soup",
                     "render_method": "alpha_test_single_sided"
                 },
-                "pie_side": {
-                    "texture": "displaydelight:pie_side",
-                    "render_method": "alpha_test_single_sided"
-                },
-                "small_plate": {
-                    "texture": "displaydelight:small_plate",
+                "salad_bowl": {
+                    "texture": "displaydelight:salad_bowl",
                     "render_method": "alpha_test_single_sided"
                 }
             },

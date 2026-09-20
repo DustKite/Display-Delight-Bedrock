@@ -75,26 +75,26 @@
             },
             "minecraft:collision_box": {
                 "origin": [
-                    -7.0,
-                    0.0,
-                    -7.0
+                    -4,
+                    0,
+                    -4
                 ],
                 "size": [
-                    14.0,
-                    4.0,
-                    14.0
+                    8,
+                    5,
+                    8
                 ]
             },
             "minecraft:selection_box": {
                 "origin": [
-                    -7.0,
-                    0.0,
-                    -7.0
+                    -4,
+                    0,
+                    -4
                 ],
                 "size": [
-                    14.0,
-                    4.0,
-                    14.0
+                    8,
+                    5,
+                    8
                 ]
             },
             "minecraft:material_instances": {

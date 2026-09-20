@@ -77,7 +77,7 @@ export const FOOD_PLACE_MAP = {
     "large_meals:pasta_with_mushroom_sauce": "displaydelight:lm_pasta_with_mushroom_sauce",
     "large_meals:omurice": "displaydelight:lm_omurice",
     "large_meals:mushroom_pot_pie": "displaydelight:lm_mushroom_pot_pie",
-    "large_meals:roasted_mutton_rack": "displaydelight:lm_roasted_muttoh_rack",
+    "large_meals:roasted_mutton_rack": "displaydelight:lm_roasted_mutton_rack",
     "large_meals:sweet_berry_custard": "displaydelight:lm_sweet_berry_custard",
     "large_meals:rice_pudding": "displaydelight:lm_rice_pudding",
 
