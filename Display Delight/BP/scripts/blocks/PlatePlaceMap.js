@@ -58,9 +58,9 @@ export const PLATE_RECIPES = {
         //Crabber's Delight
         "crabbersdelight:stuffed_nautilus_shell": { block: "displaydelight:crd_plated_stuffed_nautilus_shell", max: 1 },
         "crabbersdelight:fish_stick": { block: "displaydelight:crd_plated_fish_stick", max: 1 },
-        "crabbersdelight:shrimp_skewer": { block: "displaydelight:crd_plated_shrimp_skewer", max: 1 },
-        "crabbersdelight:squid_kebab": { block: "displaydelight:crd_plated_squid_kebab", max: 1 },
-        "crabbersdelight:frog_leg_kebab": { block: "displaydelight:crd_plated_frog_leg_kebab", max: 1 }
+        "crabbersdelight:shrimp_skewer": { block: "displaydelight:crd_plated_shrimp_skewer", max: 2 },
+        "crabbersdelight:squid_kebob": { block: "displaydelight:crd_plated_squid_kebab", max: 1 },
+        "crabbersdelight:frog_leg_kebob": { block: "displaydelight:crd_plated_frog_leg_kebab", max: 1 }
     },
 
     //small_food_plate

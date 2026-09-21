@@ -308,6 +308,75 @@
     "displaydelight:od_squid_rings": {
         "sound": "cloth"
     },
+    "displaydelight:bnc_cheesy_pasta": {
+        "sound": "cloth"
+    },
+    "displaydelight:bnc_creamy_onion_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:bnc_fiery_fondue": {
+        "sound": "cloth"
+    },
+    "displaydelight:bnc_horror_lasagna": {
+        "sound": "cloth"
+    },
+    "displaydelight:bnc_plated_ham_and_cheese_sandwich": {
+        "sound": "cloth"
+    },
+    "displaydelight:bnc_scarlet_pierogi": {
+        "sound": "cloth"
+    },
+    "displaydelight:bnc_small_plated_quiche_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:bnc_vegetable_omelet": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_bisque": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_clam_bake": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_clam_chowder": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_coconut_milk": {
+        "sound": "glass"
+    },
+    "displaydelight:crd_coconut_pudding": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_coral_crunch": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_kelp_shake": {
+        "sound": "glass"
+    },
+    "displaydelight:crd_plated_fish_stick": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_plated_frog_leg_kebab": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_plated_shrimp_skewer": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_plated_squid_kebab": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_plated_stuffed_nautilus_shell": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_seafood_gumbo": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_shrimp_fried_rice": {
+        "sound": "cloth"
+    },
+    "displaydelight:crd_surf_and_turf": {
+        "sound": "cloth"
+    },
     "format_version": [
         1,
         1,

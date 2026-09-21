@@ -41,7 +41,7 @@ export const FOOD_PLACE_MAP = {
 
     //Brewin' and Chewin'
     "brewinandchewin:fiery_fondue": "displaydelight:bnc_fiery_fondue",
-    "brewinandchewin:scarlet_pierogi": "displaydelight:bnc_scarlet_pierogi",
+    "brewinandchewin:scarlet_pierogies": "displaydelight:bnc_scarlet_pierogi",
     "brewinandchewin:horror_lasagna": "displaydelight:bnc_horror_lasagna",
     "brewinandchewin:cheesy_pasta": "displaydelight:bnc_cheesy_pasta",
     "brewinandchewin:creamy_onion_soup": "displaydelight:bnc_creamy_onion_soup",
@@ -103,8 +103,6 @@ export const FOOD_PLACE_MAP = {
 
     //Crabber's Delight
     "crabbersdelight:kelp_shake": "displaydelight:crd_kelp_shake",
-    "crabbersdelight:coconut_pudding": "displaydelight:crd_coconut_pudding",
-    "crabbersdelight:coconut_milk": "displaydelight:crd_coocnut_milk",
     "crabbersdelight:clam_bake": "displaydelight:crd_clam_bake",
     "crabbersdelight:surf_and_turf": "displaydelight:crd_surf_and_turf",
     "crabbersdelight:seafood_gumbo": "displaydelight:crd_seafood_gumbo",
@@ -112,6 +110,9 @@ export const FOOD_PLACE_MAP = {
     "crabbersdelight:coral_crunch": "displaydelight:crd_coral_crunch",
     "crabbersdelight:clam_chowder": "displaydelight:crd_clam_chowder",
     "crabbersdelight:bisque": "displaydelight:crd_bisque",
+
+    "crabbersdelight:coconut_pudding": "displaydelight:crd_coconut_pudding",
+    "crabbersdelight:coconut_milk": "displaydelight:crd_coocnut_milk",
 
     //Nether's Delight
     "nethersdelight:plate_of_stuffed_hoglin_snout": "displaydelight:nd_plate_of_stuffed_hoglin_snout",

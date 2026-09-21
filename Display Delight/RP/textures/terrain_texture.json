@@ -12,6 +12,30 @@
     "displaydelight:ed_asparagus_and_bacon_cheesy": {
       "textures": "textures/blocks/displaydelight/ed_asparagus_and_bacon_cheesy"
     },
+    "displaydelight:ed_toast": {
+      "textures": "textures/blocks/displaydelight/ed_toast"
+    },
+    "displaydelight:bnc_cheesy_pasta": {
+      "textures": "textures/blocks/displaydelight/Brewin/bnc_cheesy_pasta"
+    },
+    "displaydelight:bnc_fiery_fondue": {
+      "textures": "textures/blocks/displaydelight/Brewin/bnc_fiery_fondue"
+    },
+    "displaydelight:bnc_lasagna": {
+      "textures": "textures/blocks/displaydelight/Brewin/bnc_lasagna"
+    },
+    "displaydelight:bnc_meals": {
+      "textures": "textures/blocks/displaydelight/Brewin/bnc_meals"
+    },
+    "displaydelight:bnc_omelette": {
+      "textures": "textures/blocks/displaydelight/Brewin/bnc_omelette"
+    },
+    "displaydelight:bnc_pierogi": {
+      "textures": "textures/blocks/displaydelight/Brewin/bnc_pierogi"
+    },
+    "displaydelight:bnc_quiche": {
+      "textures": "textures/blocks/displaydelight/Brewin/bnc_quiche"
+    },
     "displaydelight:cd_classic_corn_dog": {
       "textures": "textures/blocks/displaydelight/Corn/cd_classic_corn_dog"
     },
@@ -35,6 +59,36 @@
     },
     "displaydelight:cd_taco": {
       "textures": "textures/blocks/displaydelight/Corn/cd_taco"
+    },
+    "displaydelight:crd_barbeque": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_barbeque"
+    },
+    "displaydelight:crd_bisque": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_bisque"
+    },
+    "displaydelight:crd_clam_chowder": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_clam_chowder"
+    },
+    "displaydelight:crd_clawster": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_clawster"
+    },
+    "displaydelight:crd_coconut_milk": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_coconut_milk"
+    },
+    "displaydelight:crd_coconut_pudding": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_coconut_pudding"
+    },
+    "displaydelight:crd_coral_crunch": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_coral_crunch"
+    },
+    "displaydelight:crd_kelp_shake": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_kelp_shake"
+    },
+    "displaydelight:crd_seafood_gumbo": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_seafood_gumbo"
+    },
+    "displaydelight:crd_stuffed_nautilus_shell": {
+      "textures": "textures/blocks/displaydelight/Crabber/crd_stuffed_nautilus_shell"
     },
     "displaydelight:apple_cider": {
       "textures": "textures/blocks/displaydelight/Famer/apple_cider"
