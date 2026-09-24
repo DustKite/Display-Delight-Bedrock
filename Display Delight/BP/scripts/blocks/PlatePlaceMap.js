@@ -46,14 +46,14 @@ export const PLATE_RECIPES = {
         "brewinandchewin:ham_and_cheese_sandwich": { block: "displaydelight:bnc_plated_ham_and_cheese_sandwich", max: 1 },
 
         //End's Delight
-        "ends_delight:stuffed_rice_cake": { block: "displaydelight:edd_plated_stuffed_rice_cake", max: 1 },
+        "ends_delight:stuffed_rice_cake": { block: "displaydelight:edd_plated_stuffed_rice_cake", max: 3 },
         "ends_delight:chorus_flower_pie": { block: "displaydelight:edd_plated_chorus_flower_pie", max: 1 },
-        "ends_delight:ender_bamboo_rice": { block: "displaydelight:edd_plated_ender_bamboo_rice", max: 1 },
-        "ends_delight:chorus_fruit_popsicle": { block: "displaydelight:edd_plated_chorus_fruit_popsicle", max: 1 },
-        "ends_delight:end_barbecue_stick": { block: "displaydelight:edd_plated_end_barbecue_stick", max: 1 },
+        "ends_delight:ender_bamboo_rice": { block: "displaydelight:edd_plated_ender_bamboo_rice", max: 2 },
+        "ends_delight:chorus_fruit_popsicle": { block: "displaydelight:edd_plated_chorus_fruit_popsicle", max: 2 },
+        "ends_delight:end_barbecue_stick": { block: "displaydelight:edd_plated_end_barbecue_stick", max: 3 },
 
         //Nether's Delight
-        "nethersdelight:nether_skewer": { block: "displaydelight:nd_plated_nether_skewer", max: 1 },
+        "nethersdelight:nether_skewer": { block: "displaydelight:nd_plated_nether_skewer", max: 2 },
 
         //Crabber's Delight
         "crabbersdelight:stuffed_nautilus_shell": { block: "displaydelight:crd_plated_stuffed_nautilus_shell", max: 1 },

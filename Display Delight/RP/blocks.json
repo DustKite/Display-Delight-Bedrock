@@ -377,6 +377,99 @@
     "displaydelight:crd_surf_and_turf": {
         "sound": "cloth"
     },
+    "displaydelight:edd_assorted_salad": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_bubble_tea": {
+        "sound": "glass"
+    },
+    "displaydelight:edd_chorus_flower_tea": {
+        "sound": "glass"
+    },
+    "displaydelight:edd_chorus_fruit_milk_tea": {
+        "sound": "glass"
+    },
+    "displaydelight:edd_chorus_fruit_wine": {
+        "sound": "glass"
+    },
+    "displaydelight:edd_dragon_breath_and_chorus_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_dragon_breath_soda": {
+        "sound": "glass"
+    },
+    "displaydelight:edd_dragon_leg_with_sauce": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_dragon_meat_stew": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_end_mixed_salad": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_ender_congee": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_ender_noodle": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_enderman_gristle_stew": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_grilled_shulker": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_plated_chorus_flower_pie": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_plated_chorus_fruit_popsicle": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_plated_end_barbecue_stick": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_plated_ender_bamboo_rice": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_plated_stuffed_rice_cake": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_roasted_dragon_steak": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_shulker_soup": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_small_plated_chorus_fruit_pie_slice": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_steamed_dragon_egg": {
+        "sound": "cloth"
+    },
+    "displaydelight:edd_stir_fried_shulker_meat": {
+        "sound": "cloth"
+    },
+    "displaydelight:nd_grilled_strider": {
+        "sound": "cloth"
+    },
+    "displaydelight:nd_plate_of_stuffed_hoglin_ham": {
+        "sound": "cloth"
+    },
+    "displaydelight:nd_plate_of_stuffed_hoglin_roast": {
+        "sound": "cloth"
+    },
+    "displaydelight:nd_plate_of_stuffed_hoglin_snout": {
+        "sound": "cloth"
+    },
+    "displaydelight:nd_plated_nether_skewer": {
+        "sound": "cloth"
+    },
+    "displaydelight:nd_strider_moss_stew": {
+        "sound": "cloth"
+    },
+    "displaydelight:nd_warped_moldy_meat": {
+        "sound": "cloth"
+    },
     "format_version": [
         1,
         1,

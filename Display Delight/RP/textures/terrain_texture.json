@@ -90,6 +90,54 @@
     "displaydelight:crd_stuffed_nautilus_shell": {
       "textures": "textures/blocks/displaydelight/Crabber/crd_stuffed_nautilus_shell"
     },
+    "displaydelight:edd_bubble_tea": {
+      "textures": "textures/blocks/displaydelight/End/edd_bubble_tea"
+    },
+    "displaydelight:edd_chorus_flower_pie": {
+      "textures": "textures/blocks/displaydelight/End/edd_chorus_flower_pie"
+    },
+    "displaydelight:edd_chorus_fruit_milk_tea": {
+      "textures": "textures/blocks/displaydelight/End/edd_chorus_fruit_milk_tea"
+    },
+    "displaydelight:edd_chorus_fruit_pie": {
+      "textures": "textures/blocks/displaydelight/End/edd_chorus_fruit_pie"
+    },
+    "displaydelight:edd_chorus_fruit_wine": {
+      "textures": "textures/blocks/displaydelight/End/edd_chorus_fruit_wine"
+    },
+    "displaydelight:edd_chorus_popscicle": {
+      "textures": "textures/blocks/displaydelight/End/edd_chorus_popscicle"
+    },
+    "displaydelight:edd_dragon_berath_soda": {
+      "textures": "textures/blocks/displaydelight/End/edd_dragon_berath_soda"
+    },
+    "displaydelight:edd_dragon_leg": {
+      "textures": "textures/blocks/displaydelight/End/edd_dragon_leg"
+    },
+    "displaydelight:edd_dragon_meat_stew": {
+      "textures": "textures/blocks/displaydelight/End/edd_dragon_meat_stew"
+    },
+    "displaydelight:edd_dragon_steak": {
+      "textures": "textures/blocks/displaydelight/End/edd_dragon_steak"
+    },
+    "displaydelight:edd_enderman_gristle_stew": {
+      "textures": "textures/blocks/displaydelight/End/edd_enderman_gristle_stew"
+    },
+    "displaydelight:edd_end_barbecue": {
+      "textures": "textures/blocks/displaydelight/End/edd_end_barbecue"
+    },
+    "displaydelight:edd_flower_tea": {
+      "textures": "textures/blocks/displaydelight/End/edd_flower_tea"
+    },
+    "displaydelight:edd_grilled_shulker": {
+      "textures": "textures/blocks/displaydelight/End/edd_grilled_shulker"
+    },
+    "displaydelight:edd_soups": {
+      "textures": "textures/blocks/displaydelight/End/edd_soups"
+    },
+    "displaydelight:edd_teas": {
+      "textures": "textures/blocks/displaydelight/End/edd_teas"
+    },
     "displaydelight:apple_cider": {
       "textures": "textures/blocks/displaydelight/Famer/apple_cider"
     },
@@ -368,6 +416,84 @@
     },
     "displaydelight:lm_tomato_egg_soup": {
       "textures": "textures/blocks/displaydelight/Large/lm_tomato_egg_soup"
+    },
+    "displaydelight:mnd_barbeques": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_barbeques"
+    },
+    "displaydelight:mnd_bleeding_tartar": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_bleeding_tartar"
+    },
+    "displaydelight:mnd_blue_tenderloin_steak": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_blue_tenderloin_steak"
+    },
+    "displaydelight:mnd_breakfast_sampler": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_breakfast_sampler"
+    },
+    "displaydelight:mnd_bullet_pepper": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_bullet_pepper"
+    },
+    "displaydelight:mnd_cold_striderloaf": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_cold_striderloaf"
+    },
+    "displaydelight:mnd_crimpson_stroganoff": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_crimpson_stroganoff"
+    },
+    "displaydelight:mnd_dried_ghast_with_milk": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_dried_ghast_with_milk"
+    },
+    "displaydelight:mnd_fried_hoglin_chop": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_fried_hoglin_chop"
+    },
+    "displaydelight:mnd_fries_ghasta": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_fries_ghasta"
+    },
+    "displaydelight:mnd_ghasta": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_ghasta"
+    },
+    "displaydelight:mnd_ghast_salad": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_ghast_salad"
+    },
+    "displaydelight:mnd_giant_takoyaki": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_giant_takoyaki"
+    },
+    "displaydelight:mnd_grilled_strider": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_grilled_strider"
+    },
+    "displaydelight:mnd_hotdog": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_hotdog"
+    },
+    "displaydelight:mnd_hot_wings": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_hot_wings"
+    },
+    "displaydelight:mnd_magma_cake": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_magma_cake"
+    },
+    "displaydelight:mnd_nether_burger": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_nether_burger"
+    },
+    "displaydelight:mnd_scotch_egg": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_scotch_egg"
+    },
+    "displaydelight:mnd_soups": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_soups"
+    },
+    "displaydelight:mnd_spicy_cotten": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_spicy_cotten"
+    },
+    "displaydelight:mnd_spicy_curry": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_spicy_curry"
+    },
+    "displaydelight:mnd_spicy_hoglin_stew": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_spicy_hoglin_stew"
+    },
+    "displaydelight:mnd_striderloaf": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_striderloaf"
+    },
+    "displaydelight:mnd_stuffed_hoglin_ham": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_stuffed_hoglin_ham"
+    },
+    "displaydelight:mnd_stuffed_hoglin_snout": {
+      "textures": "textures/blocks/displaydelight/Nether/mnd_stuffed_hoglin_snout"
     },
     "displaydelight:od_baked_tentacle_on_a_stick": {
       "textures": "textures/blocks/displaydelight/Ocean/od_baked_tentacle_on_a_stick"
